@@ -1,5 +1,3 @@
-import 'reflect-metadata';
-import { container } from 'tsyringe';
 import {
   IQuickInputService,
   QuickPickInput,
@@ -10,23 +8,24 @@ import { Action2 } from '@/monaco/action';
 import { KeyCode, KeyMod } from '@/monaco';
 import { constants } from '@/services/builtinService/const';
 import { localize } from './localize';
-import { ILocaleService, LocaleService } from './localeService';
+import { ILocaleService } from './localeService';
 import { ILocale } from './localization';
+import { DIService } from '@/DIService';
 
 export class SelectLocaleAction extends Action2 {
   static readonly ID = constants.ACTION_SELECT_LOCALE;
 
-  static readonly LABEL = localize('select.locale', 'Select Display Language');
+  static readonly LABEL = () => localize('select.locale', 'Select Display Language');
 
   private get localeService(): ILocaleService {
-    return container.resolve(LocaleService);
+    return DIService.get<ILocaleService>('ILocaleService');
   }
 
   constructor() {
     super({
       id: SelectLocaleAction.ID,
-      label: SelectLocaleAction.LABEL,
-      title: SelectLocaleAction.LABEL,
+      label: SelectLocaleAction.LABEL(),
+      title: SelectLocaleAction.LABEL(),
       alias: 'Select Display Language',
       precondition: undefined,
       f1: true,

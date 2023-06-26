@@ -1,7 +1,6 @@
-import 'reflect-metadata';
-import { container } from 'tsyringe';
 import React from 'react';
-import { LocaleService } from './localeService';
+import { DIService } from '@/DIService';
+import { ILocaleService } from './localeService';
 
 export interface ILocalizeProps {
   sourceKey: string;
@@ -26,9 +25,11 @@ export function localize(
   defaultValue: string,
   ...args: string[]
 ): any {
-  return container
-    .resolve(LocaleService)
-    .localize(sourceKey, defaultValue, ...args);
+  return DIService.get<ILocaleService>('ILocaleService').localize(
+    sourceKey,
+    defaultValue,
+    ...args
+  );
 }
 
 /**
@@ -55,7 +56,7 @@ export class Localize extends React.PureComponent<ILocalizeProps> {
   }
 
   private get localeService() {
-    return container.resolve(LocaleService);
+    return DIService.get<ILocaleService>('ILocaleService');
   }
 
   getValue = () => {
