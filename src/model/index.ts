@@ -6,3 +6,4 @@ export * from './notification';
 export * from './problems';
 export * from './colorTheme';
 export * from './keybinding';
+export * from './appContext';

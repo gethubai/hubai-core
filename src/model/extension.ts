@@ -1,8 +1,8 @@
 import type { UniqueId } from '@/common/types';
-import { IExtensionService } from '@/services';
 import { ILocale } from '@/i18n';
 import { IColorTheme } from './colorTheme';
 import { IIconTheme } from './iconTheme';
+import { AppContext } from '@/model/appContext';
 
 /**
  * Defines extension types
@@ -98,11 +98,11 @@ export interface IExtension {
    * added the Extension instance.
    * @param extensionCtx The Context of Extension instance
    */
-  activate(extensionCtx: IExtensionService): void;
+  activate(extensionCtx: AppContext): void;
   /**
    * Do something when the Extension disposing.
    * For example, you can recover the UI state, or remove the Objects in memory.
    * @param extensionCtx The Context of Extension instance
    */
-  dispose(extensionCtx: IExtensionService): void;
+  dispose(extensionCtx: AppContext): void;
 }

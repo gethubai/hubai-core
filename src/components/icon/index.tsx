@@ -1,6 +1,5 @@
 import React, { ComponentProps } from 'react';
 import { classNames, prefixClaName } from '@/common/className';
-import '@vscode/codicons/dist/codicon.css';
 
 export interface IIconProps extends ComponentProps<'span'> {
   type?: string | JSX.Element;
