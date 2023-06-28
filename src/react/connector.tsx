@@ -1,5 +1,3 @@
-import 'reflect-metadata';
-import { container } from 'tsyringe';
 import React, { Component } from 'react';
 import Logger from '@/common/logger';
 import { IComponent } from './component';
@@ -46,7 +44,7 @@ export function connect<T = any>(
     }
 
     onChange(prevState, nextState) {
-      Logger.info(prevState, nextState, (container as any)._registry);
+      Logger.info(prevState, nextState);
       this.update();
     }
 
