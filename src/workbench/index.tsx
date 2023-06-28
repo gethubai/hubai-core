@@ -25,3 +25,5 @@ export type {
   INotificationController,
   IStatusBarController,
 } from '@/controller';
+
+export { Content, Header } from '@/workbench/sidebar';
