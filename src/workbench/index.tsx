@@ -1,5 +1,3 @@
-export { StatusItem } from '@/workbench/statusBar';
-
 export type {
   IWorkbench,
   IActivityBar,
@@ -24,4 +22,4 @@ export type {
   IStatusBarController,
 } from '@/controller';
 
-export { Content, Header } from '@/workbench/sidebar';
+export { Content, Header } from '@/workbench/sidebar/sidebar';
