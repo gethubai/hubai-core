@@ -1,4 +1,3 @@
-export { ActivityBarItem } from '@/workbench/activityBar/activityBarItem';
 export { EditorGroup } from '@/workbench/editor/group';
 export { StatusItem } from '@/workbench/statusBar';
 
