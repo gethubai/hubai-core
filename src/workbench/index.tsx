@@ -1,4 +1,3 @@
-export { EditorGroup } from '@/workbench/editor/group';
 export { StatusItem } from '@/workbench/statusBar';
 
 export type {
