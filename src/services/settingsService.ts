@@ -1,9 +1,8 @@
 import { ISettings } from '@/model/settings';
 
 import { IEditorTab } from '@/model';
-import { modules } from './builtinService/const';
 export type BuiltInSettingsTabType = ReturnType<
-  typeof modules.BuiltInSettingsTab
+  () => IEditorTab<{ language: string; value: string }>
 >;
 
 export interface ISettingsService {
@@ -73,4 +72,3 @@ export interface ISettingsService {
 
   onSettingsSaved(callback: (settings: ISettings) => void): void;
 }
-
