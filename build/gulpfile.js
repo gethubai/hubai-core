@@ -71,7 +71,7 @@ gulp.task("build:sass", function () {
     .pipe(
       sass({
         importer: aliasImporter({
-          "allai-core": path.resolve(__dirname, "../src"),
+          "hubai-core": path.resolve(__dirname, "../src"),
         }),
       })
     )

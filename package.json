@@ -1,7 +1,7 @@
 {
-  "name": "@allai/core",
-  "version": "1.0.6",
-  "description": "AllAI app core services",
+  "name": "@hubai/core",
+  "version": "0.0.2",
+  "description": "Hubai core services",
   "module": "./esm/index.js",
   "typings": "./esm/index.d.ts",
   "files": [
@@ -12,9 +12,9 @@
     "check-types": "tsc",
     "build": "gulp --gulpfile ./build/gulpfile.js"
   },
-  "author": "Matheus Diniz & Owners of Molecule",
+  "author": "Matheus Diniz",
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   },
   "license": "ISC",
   "devDependencies": {

@@ -1,42 +1,42 @@
-@import 'allai-core/style/common';
-@import 'allai-core/style/animation';
+@import 'hubai-core/style/common';
+@import 'hubai-core/style/animation';
 
 // ============= The Workbench parts =============
-@import 'allai-core/components/actionBar/style';
-@import 'allai-core/components/breadcrumb/style';
-@import 'allai-core/components/button/style';
-@import 'allai-core/components/checkbox/style';
-@import 'allai-core/components/collapse/style';
-@import 'allai-core/components/contextView/style';
-@import 'allai-core/components/dialog/style';
-@import 'allai-core/components/dropdown/style';
-@import 'allai-core/components/input/style';
-@import 'allai-core/components/list/style';
-@import 'allai-core/components/menu/style';
-@import 'allai-core/components/scrollBar/style';
-@import 'allai-core/components/select/style';
-@import 'allai-core/components/tabs/style';
-@import 'allai-core/components/toolbar/style';
-@import 'allai-core/components/tree/style';
-@import 'allai-core/components/search/style';
-@import 'allai-core/components/tooltip/style';
-@import 'allai-core/components/split/style';
+@import 'hubai-core/components/actionBar/style';
+@import 'hubai-core/components/breadcrumb/style';
+@import 'hubai-core/components/button/style';
+@import 'hubai-core/components/checkbox/style';
+@import 'hubai-core/components/collapse/style';
+@import 'hubai-core/components/contextView/style';
+@import 'hubai-core/components/dialog/style';
+@import 'hubai-core/components/dropdown/style';
+@import 'hubai-core/components/input/style';
+@import 'hubai-core/components/list/style';
+@import 'hubai-core/components/menu/style';
+@import 'hubai-core/components/scrollBar/style';
+@import 'hubai-core/components/select/style';
+@import 'hubai-core/components/tabs/style';
+@import 'hubai-core/components/toolbar/style';
+@import 'hubai-core/components/tree/style';
+@import 'hubai-core/components/search/style';
+@import 'hubai-core/components/tooltip/style';
+@import 'hubai-core/components/split/style';
 
 // ============= The Workbench core component =============
-//@import 'allai-core/workbench/style';
-//@import 'allai-core/workbench/activityBar/style';
-//@import 'allai-core/workbench/editor/style';
-// @import 'allai-core/workbench/editor/welcome/style';
-//@import 'allai-core/workbench/menuBar/style';
-//@import 'allai-core/workbench/panel/style';
-//@import 'allai-core/workbench/settings/style';
-//@import 'allai-core/workbench/sidebar/style';
-//@import 'allai-core/workbench/statusBar/style';
-//@import 'allai-core/workbench/notification/style';
-//@import 'allai-core/workbench/sidebar/explore/style';
-//@import 'allai-core/workbench/problems/style';
-//@import 'allai-core/workbench/notification/statusBarView/style';
-// @import 'allai-core/workbench/auxiliaryBar/style';
+//@import 'hubai-core/workbench/style';
+//@import 'hubai-core/workbench/activityBar/style';
+//@import 'hubai-core/workbench/editor/style';
+// @import 'hubai-core/workbench/editor/welcome/style';
+//@import 'hubai-core/workbench/menuBar/style';
+//@import 'hubai-core/workbench/panel/style';
+//@import 'hubai-core/workbench/settings/style';
+//@import 'hubai-core/workbench/sidebar/style';
+//@import 'hubai-core/workbench/statusBar/style';
+//@import 'hubai-core/workbench/notification/style';
+//@import 'hubai-core/workbench/sidebar/explore/style';
+//@import 'hubai-core/workbench/problems/style';
+//@import 'hubai-core/workbench/notification/statusBarView/style';
+// @import 'hubai-core/workbench/auxiliaryBar/style';
 
 .#{$prefix} {
     bottom: 0;
