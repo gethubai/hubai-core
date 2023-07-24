@@ -4,6 +4,7 @@ import { IMenuItemProps } from '@/components/menu';
 import { IBreadcrumbItemProps } from '@/components/breadcrumb';
 import { editor as MonacoEditor } from 'monaco-editor';
 import type { UniqueId } from '@/common/types';
+import { IDisposable } from '@/monaco/common';
 
 export enum EditorEvent {
   OnCloseTab = 'editor.closeTab',
@@ -40,6 +41,10 @@ export interface IEditorActionsProps extends IMenuItemProps {
 
 export interface IEditorTab<T = BuiltInEditorTabDataType> extends ITabProps<T> {
   breadcrumb?: IBreadcrumbItemProps[];
+  /* 
+  * The instances that need to be disposed when the tab is closed
+  */
+  disposables?: IDisposable[];
 }
 export interface IEditorAction {
   actions?: IEditorActionsProps[];
