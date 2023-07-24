@@ -98,7 +98,8 @@ function SplitPane({
 
   useEffect(() => {
     const resizeObserver = new ResizeObserver(() => {
-      setWrapperRect(wrapper.current!.getBoundingClientRect());
+      if(!wrapper.current) return;
+      setWrapperRect(wrapper.current.getBoundingClientRect());
     });
     resizeObserver.observe(wrapper.current!);
     return () => {
