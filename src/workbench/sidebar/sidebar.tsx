@@ -24,6 +24,6 @@ export const Header = memo<IHeaderProps>(function Header(props: IHeaderProps) {
   );
 });
 
-export function Content(props: React.ComponentProps<any>) {
-  return <div className={contentClassName}>{props.children}</div>;
+export function Content({children, ...rest}: React.ComponentProps<any>) {
+  return <div className={contentClassName} {...rest}>{children}</div>;
 }
