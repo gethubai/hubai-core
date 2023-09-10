@@ -43,6 +43,8 @@ export abstract class Component<S = any>
 {
   protected abstract state: S;
 
+  private _prevState: S | undefined;
+
   private _event: EventEmitter;
 
   constructor() {
@@ -58,9 +60,13 @@ export abstract class Component<S = any>
     values: Partial<S>,
     callback?: (prevState: S, nextState: S) => void
   ) {
+    this._prevState = { ...this.state };
     const nextState = Object.assign(this.state as any, values);
     this.render(nextState);
-    callback?.(this.state, nextState);
+    callback?.(this._prevState, nextState);
+
+    // clear previous state
+    this._prevState = undefined;
   }
 
   /**
@@ -68,7 +74,11 @@ export abstract class Component<S = any>
    * @param nextState
    */
   public render(nextState?: S) {
-    this._event.emit(ComponentEvents.Update, this.state, nextState);
+    this._event.emit(
+      ComponentEvents.Update,
+      this._prevState ?? this.state,
+      nextState
+    );
   }
 
   public onUpdateState(listener: (prevState: S, nextState: S) => void) {
