@@ -3,6 +3,7 @@ import { ILocale } from '@/i18n';
 import { IColorTheme } from './colorTheme';
 import { IIconTheme } from './iconTheme';
 import { AppContext } from '@/model/appContext';
+import { IChatContribute } from './chat';
 
 /**
  * Defines extension types
@@ -14,6 +15,7 @@ export enum IExtensionType {
   Locals = 'locales',
   Menus = 'menus',
   Workbench = 'workbench',
+  Chat = 'chat',
 }
 
 export enum IContributeType {
@@ -23,6 +25,7 @@ export enum IContributeType {
   Grammar = 'grammars',
   Themes = 'themes',
   IconTheme = 'iconThemes',
+  Chat = 'chat',
 }
 
 export interface IContribute {
@@ -32,6 +35,7 @@ export interface IContribute {
   [IContributeType.Grammar]?: any;
   [IContributeType.Themes]?: IColorTheme[];
   [IContributeType.IconTheme]?: IIconTheme[];
+  [IContributeType.Chat]?: IChatContribute;
 }
 
 /**
