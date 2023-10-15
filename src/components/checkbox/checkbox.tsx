@@ -7,6 +7,7 @@ export interface ICheckboxProps extends HTMLElementProps {
   id: UniqueId;
   value?: string;
   children?: React.ReactNode;
+  checked?: boolean;
   onChange?(e: React.ChangeEvent, options?: ICheckboxProps): void;
 
   [key: string]: any;
@@ -26,6 +27,7 @@ export function Checkbox(props: ICheckboxProps) {
     title,
     role,
     style,
+    checked,
     ...custom
   } = props;
 
@@ -51,6 +53,7 @@ export function Checkbox(props: ICheckboxProps) {
         className={checkboxInputClassName}
         value={value}
         onChange={handleCheckboxChange}
+        checked={checked}
       />
       <label
         htmlFor={id.toString()}
