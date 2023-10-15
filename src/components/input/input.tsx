@@ -147,6 +147,7 @@ export class Input extends React.Component<IInputProps, InputState> {
         onKeyDown={this.handleKeyDown}
         className={classNames(className, getInputClassName(size, disabled))}
         ref={this.saveInput}
+        disabled={disabled}
         {...props}
       />
     );
