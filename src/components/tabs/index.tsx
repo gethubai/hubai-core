@@ -136,19 +136,21 @@ export function Tabs(props: ITabsProps) {
           ref={scroll}
           trackStyle={{ height: 3 }}
         >
-          {data.map((tab, index) => {
-            return (
-              <Tab
-                key={tab.id}
-                active={activeTab === tab.id}
-                tab={tab}
-                onDrag={handleDrag}
-                onCloseTab={onCloseTab}
-                onContextMenu={onContextMenu}
-                onSelectTab={onSelectTab}
-              />
-            );
-          })}
+          {data
+            .filter((t) => !!t)
+            .map((tab, index) => {
+              return (
+                <Tab
+                  key={tab.id}
+                  active={activeTab === tab.id}
+                  tab={tab}
+                  onDrag={handleDrag}
+                  onCloseTab={onCloseTab}
+                  onContextMenu={onContextMenu}
+                  onSelectTab={onSelectTab}
+                />
+              );
+            })}
         </ScrollBar>
       </div>
     </DndProvider>
