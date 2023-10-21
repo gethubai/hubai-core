@@ -1,5 +1,6 @@
 import {
   IActivityBarService,
+  IAuxiliaryBarService,
   IColorThemeService,
   IEditorService,
   IExtensionService,
@@ -30,6 +31,7 @@ export class AppContextServices {
   public settings: ISettingsService;
   public extension: IExtensionService;
   public layout: ILayoutService;
+  public auxiliaryBar: IAuxiliaryBarService;
 
   constructor(
     sidebar: ISidebarService,
@@ -42,6 +44,7 @@ export class AppContextServices {
     settings: ISettingsService,
     extension: IExtensionService,
     layout: ILayoutService,
+    auxiliaryBar: IAuxiliaryBarService
   ) {
     this.sidebar = sidebar;
     this.activityBar = activityBar;
@@ -53,5 +56,6 @@ export class AppContextServices {
     this.settings = settings;
     this.extension = extension;
     this.layout = layout;
+    this.auxiliaryBar = auxiliaryBar;
   }
 }
