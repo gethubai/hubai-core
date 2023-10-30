@@ -8,6 +8,7 @@ export * from "./common/observable";
 export * from "./common/treeUtil";
 export * from "./common/types";
 export * from "./common/utils";
+export * from "./common/date";
 export * as logger from "./common/logger";
 export * as react from "./react";
 export * as component from "./components";
