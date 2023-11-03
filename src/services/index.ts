@@ -5,3 +5,4 @@ export * from './settingsService';
 export * from './notificationService';
 export * from './problemsService';
 export * from './extensionService';
+export * from './brainClientService';

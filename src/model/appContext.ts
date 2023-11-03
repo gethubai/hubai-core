@@ -1,6 +1,7 @@
 import {
   IActivityBarService,
   IAuxiliaryBarService,
+  IBrainClientManager,
   IColorThemeService,
   IEditorService,
   IExtensionService,
@@ -32,6 +33,7 @@ export class AppContextServices {
   public extension: IExtensionService;
   public layout: ILayoutService;
   public auxiliaryBar: IAuxiliaryBarService;
+  public brainClientManager: IBrainClientManager;
 
   constructor(
     sidebar: ISidebarService,
@@ -44,7 +46,8 @@ export class AppContextServices {
     settings: ISettingsService,
     extension: IExtensionService,
     layout: ILayoutService,
-    auxiliaryBar: IAuxiliaryBarService
+    auxiliaryBar: IAuxiliaryBarService,
+    brainClientManager: IBrainClientManager
   ) {
     this.sidebar = sidebar;
     this.activityBar = activityBar;
@@ -57,5 +60,6 @@ export class AppContextServices {
     this.extension = extension;
     this.layout = layout;
     this.auxiliaryBar = auxiliaryBar;
+    this.brainClientManager = brainClientManager;
   }
 }
