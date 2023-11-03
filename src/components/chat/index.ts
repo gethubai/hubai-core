@@ -17,6 +17,8 @@ import MessageHeader, {
 } from './chatMessageHeader';
 import ChatInteractionContainer, { ChatInput } from './chatInput';
 import { ChatInputAction, ChatInputActions } from './chatInputActions';
+export * from './types';
+export * from './chatInput';
 
 export const Chat = {
   List: ChatList,
@@ -41,3 +43,4 @@ export const Message = {
   Text: TextMessage,
   Attachments,
 };
+
