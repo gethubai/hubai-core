@@ -56,6 +56,7 @@ export abstract class Component<S = any>
    * Set the state values, and notify the view component to re render
    * @param values update target state values
    */
+  /** @hidden */
   public setState(
     values: Partial<S>,
     callback?: (prevState: S, nextState: S) => void
@@ -73,6 +74,7 @@ export abstract class Component<S = any>
    * Initiative notify the component to render the view by the state
    * @param nextState
    */
+  /** @hidden */
   public render(nextState?: S) {
     this._event.emit(
       ComponentEvents.Update,
@@ -80,19 +82,19 @@ export abstract class Component<S = any>
       nextState
     );
   }
-
+  /** @hidden */
   public onUpdateState(listener: (prevState: S, nextState: S) => void) {
     this._event.subscribe(ComponentEvents.Update, listener);
   }
-
+  /** @hidden */
   public removeOnUpdateState(listener?: Function): void {
     this._event.unsubscribe(ComponentEvents.Update, listener);
   }
-
+  /** @hidden */
   public forceUpdate() {
     this.setState(cloneDeep(this.state));
   }
-
+  /** @hidden */
   public getState(): S {
     return this.state;
   }
