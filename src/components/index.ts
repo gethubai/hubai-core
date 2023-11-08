@@ -77,4 +77,5 @@ export * from './split';
 export { default as Display } from './display';
 export type { IDisplayProps } from './display';
 
+export * from './dragAndDrop';
 export * from './chat/index';
