@@ -1,6 +1,6 @@
 {
   "name": "@hubai/core",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Hubai core services",
   "module": "./esm/index.js",
   "typings": "./esm/index.d.ts",
