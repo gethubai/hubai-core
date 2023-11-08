@@ -77,5 +77,7 @@ export * from './split';
 export { default as Display } from './display';
 export type { IDisplayProps } from './display';
 
+export { default as FileMosaic } from './fileMosaic';
+export * from './fileMosaic';
 export * from './dragAndDrop';
 export * from './chat/index';
