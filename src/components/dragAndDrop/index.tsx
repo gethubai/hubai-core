@@ -1,5 +1,4 @@
 import React, { useState, useCallback } from 'react';
-import './dragAndDropZone.scss';
 import { Icon } from '../icon';
 
 export type DragDropZoneHookProps = {
