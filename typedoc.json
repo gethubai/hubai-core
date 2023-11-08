@@ -1,0 +1,7 @@
+{
+    "$schema": "https://typedoc.org/schema.json",
+    "entryPoints": ["./src/services/index.ts", "./src/model/index.ts"],
+    "out": "docs",
+    "commentStyle": "all",
+    "hideBreadcrumbs": true
+}
