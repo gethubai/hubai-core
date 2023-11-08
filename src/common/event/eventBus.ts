@@ -17,6 +17,7 @@ export abstract class GlobalEvent {
    * @param name Event name
    * @param args Arguments
    */
+  /** @hidden */
   public emit(name: string, ...args: any) {
     EventBus.emit(name, ...args);
   }
@@ -25,6 +26,7 @@ export abstract class GlobalEvent {
    * Count the service event
    * @param name Event name
    */
+  /** @hidden */
   public count(name: string) {
     return EventBus.count(name);
   }
