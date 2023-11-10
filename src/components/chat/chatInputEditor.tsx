@@ -7,9 +7,14 @@ import { CHAT_LANGUAGE_ID } from '@/monaco/chat';
 type ChatInputEditorProps = {
   editorInstanceRef: (editor: monaco.ICodeEditor) => void;
   model: monaco.ITextModel;
+  optionsOverride?: monaco.IStandaloneEditorConstructionOptions;
 };
 
-function ChatInputEditor({ model, editorInstanceRef }: ChatInputEditorProps) {
+function ChatInputEditor({
+  model,
+  editorInstanceRef,
+  optionsOverride,
+}: ChatInputEditorProps) {
   const options = useMemo<monaco.IStandaloneEditorConstructionOptions>(
     () => ({
       model,
@@ -21,8 +26,9 @@ function ChatInputEditor({ model, editorInstanceRef }: ChatInputEditorProps) {
         enabled: false,
       },
       language: CHAT_LANGUAGE_ID,
+      ...(optionsOverride ?? {}),
     }),
-    [model]
+    [model, optionsOverride]
   );
 
   return (

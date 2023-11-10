@@ -27,9 +27,10 @@ type ChatInputProps = {
   onAction: (action: ChatAction, editor: monaco.ICodeEditor) => void;
   id: string;
   onApiRef?: (api: ChatInputApi) => void;
+  monacoInputOptions?: monaco.IStandaloneEditorConstructionOptions;
 };
 
-export function ChatInput({ onAction, id, onApiRef }: ChatInputProps) {
+export function ChatInput({ onAction, id, onApiRef, monacoInputOptions }: ChatInputProps) {
   const editor = useRef<monaco.IStandaloneCodeEditor>(null);
   const modelUri = useMemo(() => Uri.parse(`inmemory://model/${id}`), [id]);
   const monacoModel = useMemo(
@@ -70,7 +71,13 @@ export function ChatInput({ onAction, id, onApiRef }: ChatInputProps) {
     });
   }, [onApiRef]);
 
-  return <ChatInputEditor model={monacoModel} editorInstanceRef={setRef} />;
+  return (
+    <ChatInputEditor
+      optionsOverride={monacoInputOptions}
+      model={monacoModel}
+      editorInstanceRef={setRef}
+    />
+  );
 }
 
 export default ChatInteractionContainer;
