@@ -8,3 +8,4 @@ export * from './extensionService';
 export * from './brainClientService';
 export * from './toastService';
 export * from './globalShortcutService';
+export * from './userShortcutService';
