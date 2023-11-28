@@ -1,3 +1,4 @@
+import { IToastService } from '@/services/toastService';
 import {
   IActivityBarService,
   IAuxiliaryBarService,
@@ -34,6 +35,7 @@ export class AppContextServices {
   public layout: ILayoutService;
   public auxiliaryBar: IAuxiliaryBarService;
   public brainClientManager: IBrainClientManager;
+  public toast: IToastService;
 
   constructor(
     sidebar: ISidebarService,
@@ -47,7 +49,8 @@ export class AppContextServices {
     extension: IExtensionService,
     layout: ILayoutService,
     auxiliaryBar: IAuxiliaryBarService,
-    brainClientManager: IBrainClientManager
+    brainClientManager: IBrainClientManager,
+    toast: IToastService,
   ) {
     this.sidebar = sidebar;
     this.activityBar = activityBar;
@@ -61,5 +64,6 @@ export class AppContextServices {
     this.layout = layout;
     this.auxiliaryBar = auxiliaryBar;
     this.brainClientManager = brainClientManager;
+    this.toast = toast;
   }
 }

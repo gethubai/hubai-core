@@ -6,3 +6,4 @@ export * from './notificationService';
 export * from './problemsService';
 export * from './extensionService';
 export * from './brainClientService';
+export * from './toastService';
