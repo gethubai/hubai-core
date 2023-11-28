@@ -81,3 +81,4 @@ export { default as FileMosaic } from './fileMosaic';
 export * from './fileMosaic';
 export * from './dragAndDrop';
 export * from './chat/index';
+export * from './form';
