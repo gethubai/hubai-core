@@ -59,6 +59,7 @@
     "react-audio-visualize": "^1.1.3",
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
+    "react-simple-keyboard": "^3.7.41",
     "react-syntax-highlighter": "^15.5.0",
     "reflect-metadata": "^0.1.13",
     "tslib": "^2.5.3"

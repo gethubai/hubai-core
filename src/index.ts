@@ -20,3 +20,4 @@ export * from "./model";
 export { Controller } from "./react/controller";
 
 export * from './contexts';
+export * from './widgets';
