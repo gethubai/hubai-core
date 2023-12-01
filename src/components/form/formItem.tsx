@@ -15,13 +15,12 @@ export function FormItem(
 ) {
   const { id, label, name, children, labelProps, ...restProps } = props;
   return (
-    <div className="form-item" {...restProps} style={{ marginBottom: 10 }}>
+    <div className="form-item" {...restProps}>
       {label ? (
         <label
           className="form-item__label"
           title={label}
           htmlFor={id}
-          style={{ lineHeight: 28 }}
           {...(labelProps ?? {})}
         >
           {label}
