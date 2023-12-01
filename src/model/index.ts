@@ -7,3 +7,5 @@ export * from './problems';
 export * from './colorTheme';
 export * from './keybinding';
 export * from './appContext';
+export * from './chat';
+export * from './settingsMap';

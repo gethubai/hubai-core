@@ -12,7 +12,8 @@ import {
   ISettingsService,
   ISidebarService,
   IUserShortcutService,
-  IToastService
+  IToastService,
+  IChatAssistantsManagement,
 } from '../services';
 
 export class AppContext {
@@ -38,6 +39,7 @@ export class AppContextServices {
   public brainClientManager: IBrainClientManager;
   public toast: IToastService;
   public userShortcut: IUserShortcutService;
+  public chatAssistantsManager: IChatAssistantsManagement;
 
   constructor(
     sidebar: ISidebarService,
@@ -53,7 +55,8 @@ export class AppContextServices {
     auxiliaryBar: IAuxiliaryBarService,
     brainClientManager: IBrainClientManager,
     toast: IToastService,
-    userShortcut: IUserShortcutService
+    userShortcut: IUserShortcutService,
+    chatAssistantsManager: IChatAssistantsManagement
   ) {
     this.sidebar = sidebar;
     this.activityBar = activityBar;
@@ -69,5 +72,6 @@ export class AppContextServices {
     this.brainClientManager = brainClientManager;
     this.toast = toast;
     this.userShortcut = userShortcut;
+    this.chatAssistantsManager = chatAssistantsManager;
   }
 }
