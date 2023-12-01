@@ -1,8 +1,8 @@
+import React, { useState, useCallback, useContext, useEffect } from 'react';
 import { generateUniqueId } from '@/common/id';
 import { ISelectOptionProps, Modal, Select, Option, Icon } from '@/components';
 import HubaiContext from '@/contexts/hubaiContext';
 import { IUserShortcut } from '@/services/userShortcutService';
-import React, { useState, useCallback, useContext } from 'react';
 import ShortcutEditor from './shortcutEditor';
 
 export type ShortcutSelectorProps = {
@@ -26,14 +26,14 @@ function ShortcutSelector({
   style,
   className,
 }: ShortcutSelectorProps) {
+  const {
+    services: { userShortcut },
+  } = useContext(HubaiContext);
+
   const [showCreateShortcutModal, setShowCreateShortcutModal] =
     useState<boolean>(false);
 
   const [shortcutWindowItem, setShortcutWindowItem] = useState<IUserShortcut>();
-
-  const {
-    services: { userShortcut },
-  } = useContext(HubaiContext);
 
   const shortcuts = userShortcut.getShortcuts();
 
@@ -68,7 +68,17 @@ function ShortcutSelector({
   );
 
   const onEditShortcut = useCallback(() => {
+    if (!shortcutWindowItem) return;
     setShowCreateShortcutModal(true);
+  }, [shortcutWindowItem]);
+
+  useEffect(() => {
+    if (selectedShortcutId) {
+      const selectedShortcut = shortcuts.find(
+        (s) => s.id === selectedShortcutId
+      ) as IUserShortcut;
+      setShortcutWindowItem(selectedShortcut);
+    }
   }, []);
 
   return (

@@ -1,21 +1,5 @@
 @import 'hubai-core/style/common';
 
-.shortcutEditor__root {
-  .content-container {
-    width: 100%;
-    margin-right: 15px;
-    margin-left: 15px;
-  }
-
-  .buttons-container {
-    text-align: left;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    margin-top: 20px;
-  }
-}
-
 .simple-keyboard.darkTheme {
   background-color: var(--workbenchBackground);
   border-radius: 0;

@@ -9,16 +9,46 @@
       width: 90%;
     }
   }
-
-  .create-shortcut-modal-content {
-    margin: 10px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    padding-right: 15px;
-  }
-
   .edit-shortcut-button {
     font-size: 17px;
     margin-left: 5px;
+  }
+}
+
+.create-shortcut-modal-content {
+  margin: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+}
+
+.shortcutEditor__root {
+  .content-container {
+    width: 100%;
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+
+  .buttons-container {
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+  }
+
+  .category-container {
+    display: block;
+    width: 100%;
+  }
+
+  .category-badge {
+    text-transform: capitalize;
+    display: inline-block;
+    border: 1px solid hsla(0, 0%, 53.3%, 0.45);
+    border-radius: 2px;
+    padding: 2px 4px;
+    font-size: 90%;
+    margin: 0 6px 3px 0;
   }
 }

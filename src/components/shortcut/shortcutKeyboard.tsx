@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Keyboard, { KeyboardOptions } from 'react-simple-keyboard';
 
-export type StateType = {
+type StateType = {
   layoutName: string;
   input: string;
   keys: string[];
@@ -77,14 +77,14 @@ export type KeyboardKey = {
   customButtonOverride?: string;
 };
 
-export type Props = {
+export type ShortcutKeyboardProps = {
   selectedKeys: string[];
   onKeyPress: (key: KeyboardKey) => void;
   physicalKeyboardHighlight?: boolean;
   customKeysOverride?: { [index: string]: string };
 };
 
-class ShortcutKeyboard extends Component<Props, StateType> {
+class ShortcutKeyboard extends Component<ShortcutKeyboardProps, StateType> {
   state: StateType = {
     layoutName: 'default',
     input: '',
