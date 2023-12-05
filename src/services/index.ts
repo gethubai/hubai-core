@@ -10,3 +10,4 @@ export * from './toastService';
 export * from './globalShortcutService';
 export * from './userShortcutService';
 export * from './chat';
+export * from './extensionSettingsService';

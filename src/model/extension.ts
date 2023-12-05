@@ -4,6 +4,7 @@ import { IColorTheme } from './colorTheme';
 import { IIconTheme } from './iconTheme';
 import { AppContext } from '@/model/appContext';
 import { IChatContribute } from './chat';
+import { IPackageSettingsService } from '..';
 
 /**
  * Defines extension types
@@ -36,6 +37,14 @@ export interface IContribute {
   [IContributeType.Themes]?: IColorTheme[];
   [IContributeType.IconTheme]?: IIconTheme[];
   [IContributeType.Chat]?: IChatContribute;
+}
+
+export class ExtensionContext {
+  public settings: IPackageSettingsService;
+
+  constructor(settings: IPackageSettingsService) {
+    this.settings = settings;
+  }
 }
 
 /**
@@ -100,13 +109,14 @@ export interface IExtension {
    * Do something you want when the Extension is activating.
    * The ExtensionService will call the `activate` method after
    * added the Extension instance.
-   * @param extensionCtx The Context of Extension instance
+   * @param appContext The application context
+   * @param extensionContext The extension context
    */
-  activate(extensionCtx: AppContext): void;
+  activate(appContext: AppContext, extensionContext: ExtensionContext): void;
   /**
    * Do something when the Extension disposing.
    * For example, you can recover the UI state, or remove the Objects in memory.
-   * @param extensionCtx The Context of Extension instance
+   * @param appContext The application context
    */
-  dispose(extensionCtx: AppContext): void;
+  dispose(appContext: AppContext): void;
 }
