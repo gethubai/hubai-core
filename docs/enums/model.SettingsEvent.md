@@ -21,7 +21,7 @@ The settings content changed
 
 #### Defined in
 
-[src/model/settings.ts:10](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/settings.ts#L10)
+[src/model/settings.ts:10](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/settings.ts#L10)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/model/settings.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/settings.ts#L11)
+[src/model/settings.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/settings.ts#L11)

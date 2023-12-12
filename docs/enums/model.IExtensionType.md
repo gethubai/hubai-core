@@ -24,7 +24,7 @@ Defines extension types
 
 #### Defined in
 
-[src/model/extension.ts:18](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L18)
+[src/model/extension.ts:19](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L19)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:15](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L15)
+[src/model/extension.ts:16](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L16)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:16](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L16)
+[src/model/extension.ts:17](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L17)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:13](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L13)
+[src/model/extension.ts:14](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L14)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:14](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L14)
+[src/model/extension.ts:15](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L15)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:12](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L12)
+[src/model/extension.ts:13](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L13)
 
 ___
 
@@ -84,4 +84,4 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:17](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L17)
+[src/model/extension.ts:18](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L18)

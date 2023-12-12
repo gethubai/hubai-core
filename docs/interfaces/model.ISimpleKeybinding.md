@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/model/keybinding.ts:62](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/keybinding.ts#L62)
+[src/model/keybinding.ts:62](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/keybinding.ts#L62)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/model/keybinding.ts:60](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/keybinding.ts#L60)
+[src/model/keybinding.ts:60](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/keybinding.ts#L60)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[src/model/keybinding.ts:64](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/keybinding.ts#L64)
+[src/model/keybinding.ts:64](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/keybinding.ts#L64)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[src/model/keybinding.ts:63](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/keybinding.ts#L63)
+[src/model/keybinding.ts:63](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/keybinding.ts#L63)
 
 ___
 
@@ -60,4 +60,4 @@ ___
 
 #### Defined in
 
-[src/model/keybinding.ts:61](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/keybinding.ts#L61)
+[src/model/keybinding.ts:61](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/keybinding.ts#L61)

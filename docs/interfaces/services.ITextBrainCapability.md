@@ -2,6 +2,8 @@
 
 [services](../modules/services.md).ITextBrainCapability
 
+Extends IBrainCapability for text-based interactions.
+
 ## Hierarchy
 
 - [`IBrainCapability`](services.IBrainCapability.md)
@@ -20,17 +22,21 @@
 
 ▸ **sendTextPrompt**(`prompts`, `options?`): `Promise`\<[`BrainResponse`](../modules/services.md#brainresponse)\>
 
+Sends a text prompt to the brain.
+
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `prompts` | [`BrainPrompt`](../modules/services.md#brainprompt)[] |
-| `options?` | [`PromptOptions`](../modules/services.md#promptoptions) |
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `prompts` | [`BrainPrompt`](../modules/services.md#brainprompt)[] | Array of BrainPrompt objects. |
+| `options?` | [`PromptOptions`](../modules/services.md#promptoptions) | Optional PromptOptions. |
 
 #### Returns
 
 `Promise`\<[`BrainResponse`](../modules/services.md#brainresponse)\>
 
+A promise resolving to a BrainResponse.
+
 #### Defined in
 
-[src/services/brainClientService.ts:52](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/brainClientService.ts#L52)
+[src/services/brainClientService.ts:135](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/brainClientService.ts#L135)

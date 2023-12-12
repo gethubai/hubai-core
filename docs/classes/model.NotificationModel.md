@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[src/model/notification.tsx:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L39)
+[src/model/notification.tsx:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L39)
 
 ## Properties
 
@@ -72,7 +72,7 @@
 
 #### Defined in
 
-[src/model/notification.tsx:37](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L37)
+[src/model/notification.tsx:37](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L37)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/model/notification.tsx:29](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L29)
+[src/model/notification.tsx:29](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L29)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[src/model/notification.tsx:25](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L25)
+[src/model/notification.tsx:25](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L25)
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 #### Defined in
 
-[src/model/notification.tsx:27](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L27)
+[src/model/notification.tsx:27](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L27)
 
 ___
 
@@ -136,7 +136,7 @@ ___
 
 #### Defined in
 
-[src/model/notification.tsx:33](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L33)
+[src/model/notification.tsx:33](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L33)
 
 ___
 
@@ -150,7 +150,7 @@ ___
 
 #### Defined in
 
-[src/model/notification.tsx:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L35)
+[src/model/notification.tsx:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L35)
 
 ___
 
@@ -164,4 +164,4 @@ ___
 
 #### Defined in
 
-[src/model/notification.tsx:31](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L31)
+[src/model/notification.tsx:31](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L31)

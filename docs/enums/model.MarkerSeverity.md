@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[src/model/problems.tsx:8](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/problems.tsx#L8)
+[src/model/problems.tsx:8](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/problems.tsx#L8)
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 #### Defined in
 
-[src/model/problems.tsx:5](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/problems.tsx#L5)
+[src/model/problems.tsx:5](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/problems.tsx#L5)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[src/model/problems.tsx:6](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/problems.tsx#L6)
+[src/model/problems.tsx:6](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/problems.tsx#L6)
 
 ___
 
@@ -49,4 +49,4 @@ ___
 
 #### Defined in
 
-[src/model/problems.tsx:7](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/problems.tsx#L7)
+[src/model/problems.tsx:7](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/problems.tsx#L7)

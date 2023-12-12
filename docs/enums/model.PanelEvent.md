@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[src/model/workbench/panel.tsx:19](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/panel.tsx#L19)
+[src/model/workbench/panel.tsx:19](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/panel.tsx#L19)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/panel.tsx:21](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/panel.tsx#L21)
+[src/model/workbench/panel.tsx:21](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/panel.tsx#L21)
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/panel.tsx:20](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/panel.tsx#L20)
+[src/model/workbench/panel.tsx:20](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/panel.tsx#L20)

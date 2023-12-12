@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[src/model/colorTheme.ts:20](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L20)
+[src/model/colorTheme.ts:20](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L20)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[src/model/colorTheme.ts:21](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L21)
+[src/model/colorTheme.ts:21](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L21)

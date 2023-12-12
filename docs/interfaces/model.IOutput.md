@@ -46,7 +46,7 @@ Tab doesn't need this property, but the type extends from tab need
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L35)
+[src/components/tabs/tab.tsx:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L35)
 
 ___
 
@@ -63,7 +63,7 @@ Default is true
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:40](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L40)
+[src/components/tabs/tab.tsx:40](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L40)
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/panel.tsx:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/panel.tsx#L11)
+[src/model/workbench/panel.tsx:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/panel.tsx#L11)
 
 ___
 
@@ -93,7 +93,7 @@ Mark the tab status to be editing
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L44)
+[src/components/tabs/tab.tsx:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L44)
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:46](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L46)
+[src/components/tabs/tab.tsx:46](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L46)
 
 ___
 
@@ -121,7 +121,7 @@ ___
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:47](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L47)
+[src/components/tabs/tab.tsx:47](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L47)
 
 ___
 
@@ -135,7 +135,7 @@ ___
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:48](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L48)
+[src/components/tabs/tab.tsx:48](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L48)
 
 ___
 
@@ -145,7 +145,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/panel.tsx:31](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/panel.tsx#L31)
+[src/model/workbench/panel.tsx:31](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/panel.tsx#L31)
 
 ___
 
@@ -159,7 +159,7 @@ ___
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:49](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L49)
+[src/components/tabs/tab.tsx:49](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L49)
 
 ___
 
@@ -175,7 +175,7 @@ The sort of panel item
 
 #### Defined in
 
-[src/model/workbench/panel.tsx:15](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/panel.tsx#L15)
+[src/model/workbench/panel.tsx:15](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/panel.tsx#L15)
 
 ___
 
@@ -189,7 +189,7 @@ ___
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:45](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L45)
+[src/components/tabs/tab.tsx:45](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L45)
 
 ___
 
@@ -205,7 +205,7 @@ The same as HTMLElement title attribute
 
 #### Defined in
 
-[src/model/workbench/panel.tsx:9](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/panel.tsx#L9)
+[src/model/workbench/panel.tsx:9](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/panel.tsx#L9)
 
 ___
 
@@ -219,7 +219,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/panel.tsx:10](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/panel.tsx#L10)
+[src/model/workbench/panel.tsx:10](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/panel.tsx#L10)
 
 ## Methods
 
@@ -239,4 +239,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/panel.tsx:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/panel.tsx#L32)
+[src/model/workbench/panel.tsx:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/panel.tsx#L32)

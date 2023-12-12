@@ -40,7 +40,7 @@ Component.state
 
 #### Defined in
 
-[src/react/component.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/react/component.ts#L44)
+[src/react/component.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/react/component.ts#L44)
 
 ## Methods
 
@@ -62,7 +62,7 @@ Callabck for close a certain tab
 
 #### Defined in
 
-[src/services/workbench/explorer/editorTreeService.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/editorTreeService.ts#L11)
+[src/services/workbench/explorer/editorTreeService.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/editorTreeService.ts#L11)
 
 ___
 
@@ -85,7 +85,7 @@ When specify groupId, it'll close that group
 
 #### Defined in
 
-[src/services/workbench/explorer/editorTreeService.ts:34](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/editorTreeService.ts#L34)
+[src/services/workbench/explorer/editorTreeService.ts:34](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/editorTreeService.ts#L34)
 
 ___
 
@@ -107,7 +107,7 @@ Callback for close others tabs except this tabItem
 
 #### Defined in
 
-[src/services/workbench/explorer/editorTreeService.ts:16](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/editorTreeService.ts#L16)
+[src/services/workbench/explorer/editorTreeService.ts:16](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/editorTreeService.ts#L16)
 
 ___
 
@@ -129,7 +129,7 @@ Callback for close saved tabs in this group
 
 #### Defined in
 
-[src/services/workbench/explorer/editorTreeService.ts:23](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/editorTreeService.ts#L23)
+[src/services/workbench/explorer/editorTreeService.ts:23](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/editorTreeService.ts#L23)
 
 ___
 
@@ -151,7 +151,7 @@ Callback for context menu click event which isn't in buit-in menus
 
 #### Defined in
 
-[src/services/workbench/explorer/editorTreeService.ts:58](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/editorTreeService.ts#L58)
+[src/services/workbench/explorer/editorTreeService.ts:58](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/editorTreeService.ts#L58)
 
 ___
 
@@ -173,7 +173,7 @@ Callback for adjust editor layout
 
 #### Defined in
 
-[src/services/workbench/explorer/editorTreeService.ts:53](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/editorTreeService.ts#L53)
+[src/services/workbench/explorer/editorTreeService.ts:53](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/editorTreeService.ts#L53)
 
 ___
 
@@ -196,7 +196,7 @@ When specify groupId, it'll save that group
 
 #### Defined in
 
-[src/services/workbench/explorer/editorTreeService.ts:40](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/editorTreeService.ts#L40)
+[src/services/workbench/explorer/editorTreeService.ts:40](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/editorTreeService.ts#L40)
 
 ___
 
@@ -218,7 +218,7 @@ Callback for select tab in this group
 
 #### Defined in
 
-[src/services/workbench/explorer/editorTreeService.ts:28](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/editorTreeService.ts#L28)
+[src/services/workbench/explorer/editorTreeService.ts:28](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/editorTreeService.ts#L28)
 
 ___
 
@@ -241,7 +241,7 @@ if you want to subscribe to the click events for these two buttons, please use t
 
 #### Defined in
 
-[src/services/workbench/explorer/editorTreeService.ts:46](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/editorTreeService.ts#L46)
+[src/services/workbench/explorer/editorTreeService.ts:46](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/editorTreeService.ts#L46)
 
 ___
 
@@ -268,7 +268,7 @@ Component.subscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L11)
+[src/common/event/eventBus.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L11)
 
 ___
 
@@ -295,4 +295,4 @@ Component.unsubscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L39)
+[src/common/event/eventBus.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L39)

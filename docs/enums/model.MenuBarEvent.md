@@ -19,7 +19,7 @@ The activity bar event definition
 
 #### Defined in
 
-[src/model/workbench/menuBar.ts:14](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/menuBar.ts#L14)
+[src/model/workbench/menuBar.ts:14](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/menuBar.ts#L14)
 
 ___
 
@@ -31,4 +31,4 @@ Selected an activity bar
 
 #### Defined in
 
-[src/model/workbench/menuBar.ts:13](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/menuBar.ts#L13)
+[src/model/workbench/menuBar.ts:13](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/menuBar.ts#L13)

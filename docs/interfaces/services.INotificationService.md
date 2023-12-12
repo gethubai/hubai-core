@@ -37,7 +37,7 @@ Component.state
 
 #### Defined in
 
-[src/react/component.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/react/component.ts#L44)
+[src/react/component.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/react/component.ts#L44)
 
 ## Methods
 
@@ -65,7 +65,7 @@ Add new notification items
 
 #### Defined in
 
-[src/services/notificationService.ts:14](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/notificationService.ts#L14)
+[src/services/notificationService.ts:14](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/notificationService.ts#L14)
 
 ___
 
@@ -81,7 +81,7 @@ Clear the notifications
 
 #### Defined in
 
-[src/services/notificationService.ts:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/notificationService.ts#L32)
+[src/services/notificationService.ts:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/notificationService.ts#L32)
 
 ___
 
@@ -103,7 +103,7 @@ Remove the specific notification item by id
 
 #### Defined in
 
-[src/services/notificationService.ts:19](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/notificationService.ts#L19)
+[src/services/notificationService.ts:19](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/notificationService.ts#L19)
 
 ___
 
@@ -119,7 +119,7 @@ Reset notifications, this will clear the pending notifications
 
 #### Defined in
 
-[src/services/notificationService.ts:36](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/notificationService.ts#L36)
+[src/services/notificationService.ts:36](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/notificationService.ts#L36)
 
 ___
 
@@ -146,7 +146,7 @@ Component.subscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L11)
+[src/common/event/eventBus.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L11)
 
 ___
 
@@ -162,7 +162,7 @@ Toggle the Notification view between display or hidden
 
 #### Defined in
 
-[src/services/notificationService.ts:28](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/notificationService.ts#L28)
+[src/services/notificationService.ts:28](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/notificationService.ts#L28)
 
 ___
 
@@ -189,7 +189,7 @@ Component.unsubscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L39)
+[src/common/event/eventBus.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L39)
 
 ___
 
@@ -217,4 +217,4 @@ Update the specific notification item
 
 #### Defined in
 
-[src/services/notificationService.ts:24](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/notificationService.ts#L24)
+[src/services/notificationService.ts:24](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/notificationService.ts#L24)

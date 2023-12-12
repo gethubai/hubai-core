@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[src/model/workbench/panel.tsx:46](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/panel.tsx#L46)
+[src/model/workbench/panel.tsx:46](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/panel.tsx#L46)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[src/model/workbench/panel.tsx:36](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/panel.tsx#L36)
+[src/model/workbench/panel.tsx:36](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/panel.tsx#L36)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/panel.tsx:38](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/panel.tsx#L38)
+[src/model/workbench/panel.tsx:38](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/panel.tsx#L38)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/panel.tsx:40](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/panel.tsx#L40)
+[src/model/workbench/panel.tsx:40](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/panel.tsx#L40)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/panel.tsx:42](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/panel.tsx#L42)
+[src/model/workbench/panel.tsx:42](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/panel.tsx#L42)
 
 ___
 
@@ -102,4 +102,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/panel.tsx:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/panel.tsx#L44)
+[src/model/workbench/panel.tsx:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/panel.tsx#L44)

@@ -21,7 +21,7 @@ Activity bar data changed
 
 #### Defined in
 
-[src/model/workbench/statusBar.tsx:36](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/statusBar.tsx#L36)
+[src/model/workbench/statusBar.tsx:36](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/statusBar.tsx#L36)
 
 ___
 
@@ -33,4 +33,4 @@ Selected an activity bar
 
 #### Defined in
 
-[src/model/workbench/statusBar.tsx:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/statusBar.tsx#L32)
+[src/model/workbench/statusBar.tsx:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/statusBar.tsx#L32)

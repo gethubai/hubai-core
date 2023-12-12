@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[src/model/notification.tsx:7](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L7)
+[src/model/notification.tsx:7](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L7)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[src/model/notification.tsx:8](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L8)
+[src/model/notification.tsx:8](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L8)

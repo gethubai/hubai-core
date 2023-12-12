@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/model/colorTheme.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L39)
+[src/model/colorTheme.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L39)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-[src/model/colorTheme.ts:37](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L37)
+[src/model/colorTheme.ts:37](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L37)
 
 ___
 
@@ -47,7 +47,7 @@ The id of component, theme will be applied by this ID
 
 #### Defined in
 
-[src/model/colorTheme.ts:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L32)
+[src/model/colorTheme.ts:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L32)
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-[src/model/colorTheme.ts:33](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L33)
+[src/model/colorTheme.ts:33](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L33)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-[src/model/colorTheme.ts:34](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L34)
+[src/model/colorTheme.ts:34](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L34)
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 #### Defined in
 
-[src/model/colorTheme.ts:36](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L36)
+[src/model/colorTheme.ts:36](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L36)
 
 ___
 
@@ -92,7 +92,7 @@ More info visit: https://code.visualstudio.com/api/language-extensions/semantic-
 
 #### Defined in
 
-[src/model/colorTheme.ts:47](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L47)
+[src/model/colorTheme.ts:47](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L47)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[src/model/colorTheme.ts:40](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L40)
+[src/model/colorTheme.ts:40](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L40)
 
 ___
 
@@ -112,7 +112,7 @@ ___
 
 #### Defined in
 
-[src/model/colorTheme.ts:38](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L38)
+[src/model/colorTheme.ts:38](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L38)
 
 ___
 
@@ -122,4 +122,4 @@ ___
 
 #### Defined in
 
-[src/model/colorTheme.ts:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L35)
+[src/model/colorTheme.ts:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L35)

@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[src/model/extension.ts:28](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L28)
+[src/model/extension.ts:29](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L29)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:23](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L23)
+[src/model/extension.ts:24](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L24)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:24](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L24)
+[src/model/extension.ts:25](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L25)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:25](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L25)
+[src/model/extension.ts:26](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L26)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:27](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L27)
+[src/model/extension.ts:28](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L28)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:22](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L22)
+[src/model/extension.ts:23](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L23)
 
 ___
 
@@ -82,4 +82,4 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:26](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L26)
+[src/model/extension.ts:27](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L27)

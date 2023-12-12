@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/model/notification.tsx:12](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L12)
+[src/model/notification.tsx:12](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L12)
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 #### Defined in
 
-[src/model/notification.tsx:15](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L15)
+[src/model/notification.tsx:15](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L15)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[src/model/notification.tsx:13](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L13)
+[src/model/notification.tsx:13](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L13)
 
 ## Methods
 
@@ -68,4 +68,4 @@ ___
 
 #### Defined in
 
-[src/model/notification.tsx:14](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L14)
+[src/model/notification.tsx:14](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L14)

@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:37](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L37)
+[src/model/workbench/activityBar.ts:37](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L37)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:36](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L36)
+[src/model/workbench/activityBar.ts:36](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L36)
 
 ___
 
@@ -42,4 +42,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:38](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L38)
+[src/model/workbench/activityBar.ts:38](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L38)

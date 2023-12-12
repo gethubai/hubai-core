@@ -37,7 +37,7 @@ Component.state
 
 #### Defined in
 
-[src/react/component.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/react/component.ts#L44)
+[src/react/component.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/react/component.ts#L44)
 
 ## Methods
 
@@ -60,7 +60,7 @@ Add a new StatusBar item into right or left status
 
 #### Defined in
 
-[src/services/workbench/statusBarService.ts:16](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/statusBarService.ts#L16)
+[src/services/workbench/statusBarService.ts:16](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/statusBarService.ts#L16)
 
 ___
 
@@ -83,7 +83,7 @@ Get the specific StatusBar item
 
 #### Defined in
 
-[src/services/workbench/statusBarService.ts:33](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/statusBarService.ts#L33)
+[src/services/workbench/statusBarService.ts:33](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/statusBarService.ts#L33)
 
 ___
 
@@ -105,7 +105,7 @@ Listen to the StatusBar click event
 
 #### Defined in
 
-[src/services/workbench/statusBarService.ts:42](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/statusBarService.ts#L42)
+[src/services/workbench/statusBarService.ts:42](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/statusBarService.ts#L42)
 
 ___
 
@@ -128,7 +128,7 @@ Remove the specific StatusBar item
 
 #### Defined in
 
-[src/services/workbench/statusBarService.ts:22](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/statusBarService.ts#L22)
+[src/services/workbench/statusBarService.ts:22](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/statusBarService.ts#L22)
 
 ___
 
@@ -144,7 +144,7 @@ Reset the contextMenu data and the StatusBar data , including right and left
 
 #### Defined in
 
-[src/services/workbench/statusBarService.ts:37](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/statusBarService.ts#L37)
+[src/services/workbench/statusBarService.ts:37](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/statusBarService.ts#L37)
 
 ___
 
@@ -171,7 +171,7 @@ Component.subscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L11)
+[src/common/event/eventBus.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L11)
 
 ___
 
@@ -198,7 +198,7 @@ Component.unsubscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L39)
+[src/common/event/eventBus.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L39)
 
 ___
 
@@ -221,4 +221,4 @@ Update the specific StatusBar item, it'll update the item found in left
 
 #### Defined in
 
-[src/services/workbench/statusBarService.ts:28](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/statusBarService.ts#L28)
+[src/services/workbench/statusBarService.ts:28](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/statusBarService.ts#L28)

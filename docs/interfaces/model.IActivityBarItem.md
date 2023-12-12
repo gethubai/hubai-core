@@ -36,7 +36,7 @@
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:23](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L23)
+[src/model/workbench/activityBar.ts:23](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L23)
 
 ___
 
@@ -50,7 +50,7 @@ HTMLElementProps.className
 
 #### Defined in
 
-[src/common/types.ts:4](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/types.ts#L4)
+[src/common/types.ts:4](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/types.ts#L4)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:26](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L26)
+[src/model/workbench/activityBar.ts:26](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L26)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:21](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L21)
+[src/model/workbench/activityBar.ts:21](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L21)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:24](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L24)
+[src/model/workbench/activityBar.ts:24](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L24)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:20](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L20)
+[src/model/workbench/activityBar.ts:20](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L20)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:22](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L22)
+[src/model/workbench/activityBar.ts:22](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L22)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:18](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L18)
+[src/model/workbench/activityBar.ts:18](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L18)
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:19](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L19)
+[src/model/workbench/activityBar.ts:19](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L19)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:28](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L28)
+[src/model/workbench/activityBar.ts:28](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L28)
 
 ___
 
@@ -152,7 +152,7 @@ HTMLElementProps.role
 
 #### Defined in
 
-[src/common/types.ts:5](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/types.ts#L5)
+[src/common/types.ts:5](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/types.ts#L5)
 
 ___
 
@@ -162,7 +162,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:27](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L27)
+[src/model/workbench/activityBar.ts:27](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L27)
 
 ___
 
@@ -176,7 +176,7 @@ HTMLElementProps.style
 
 #### Defined in
 
-[src/common/types.ts:3](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/types.ts#L3)
+[src/common/types.ts:3](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/types.ts#L3)
 
 ___
 
@@ -190,7 +190,7 @@ HTMLElementProps.title
 
 #### Defined in
 
-[src/common/types.ts:2](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/types.ts#L2)
+[src/common/types.ts:2](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/types.ts#L2)
 
 ___
 
@@ -200,4 +200,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:25](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L25)
+[src/model/workbench/activityBar.ts:25](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L25)

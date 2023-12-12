@@ -43,7 +43,7 @@ eg: `
 
 #### Defined in
 
-[src/services/settingsService.ts:16](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/settingsService.ts#L16)
+[src/services/settingsService.ts:16](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/settingsService.ts#L16)
 
 ___
 
@@ -65,7 +65,7 @@ Apply the nextSettings configuration
 
 #### Defined in
 
-[src/services/settingsService.ts:58](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/settingsService.ts#L58)
+[src/services/settingsService.ts:58](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/settingsService.ts#L58)
 
 ___
 
@@ -88,7 +88,7 @@ eg: { a: { b: 'test' }}, result is : { 'a.b': 'test' }.
 
 #### Defined in
 
-[src/services/settingsService.ts:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/settingsService.ts#L32)
+[src/services/settingsService.ts:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/settingsService.ts#L32)
 
 ___
 
@@ -111,7 +111,7 @@ eg: { a: { b: 'test' }}, result is : `{ 'a.b': 'test' }`.
 
 #### Defined in
 
-[src/services/settingsService.ts:38](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/settingsService.ts#L38)
+[src/services/settingsService.ts:38](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/settingsService.ts#L38)
 
 ___
 
@@ -127,7 +127,7 @@ Get the default Settings Tab object
 
 #### Defined in
 
-[src/services/settingsService.ts:69](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/settingsService.ts#L69)
+[src/services/settingsService.ts:69](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/settingsService.ts#L69)
 
 ___
 
@@ -143,7 +143,7 @@ Get the settings object
 
 #### Defined in
 
-[src/services/settingsService.ts:26](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/settingsService.ts#L26)
+[src/services/settingsService.ts:26](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/settingsService.ts#L26)
 
 ___
 
@@ -174,7 +174,7 @@ T
 
 #### Defined in
 
-[src/services/settingsService.ts:45](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/settingsService.ts#L45)
+[src/services/settingsService.ts:45](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/settingsService.ts#L45)
 
 ___
 
@@ -196,7 +196,7 @@ Listen to the Settings change event.
 
 #### Defined in
 
-[src/services/settingsService.ts:63](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/settingsService.ts#L63)
+[src/services/settingsService.ts:63](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/settingsService.ts#L63)
 
 ___
 
@@ -216,7 +216,7 @@ ___
 
 #### Defined in
 
-[src/services/settingsService.ts:73](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/settingsService.ts#L73)
+[src/services/settingsService.ts:73](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/settingsService.ts#L73)
 
 ___
 
@@ -232,7 +232,7 @@ Open the `settings.json` in the Editor Panel
 
 #### Defined in
 
-[src/services/settingsService.ts:53](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/settingsService.ts#L53)
+[src/services/settingsService.ts:53](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/settingsService.ts#L53)
 
 ___
 
@@ -246,7 +246,7 @@ ___
 
 #### Defined in
 
-[src/services/settingsService.ts:71](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/settingsService.ts#L71)
+[src/services/settingsService.ts:71](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/settingsService.ts#L71)
 
 ___
 
@@ -269,7 +269,7 @@ It converts an object to JSON string
 
 #### Defined in
 
-[src/services/settingsService.ts:49](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/settingsService.ts#L49)
+[src/services/settingsService.ts:49](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/settingsService.ts#L49)
 
 ___
 
@@ -292,4 +292,4 @@ a settings item if it existed.
 
 #### Defined in
 
-[src/services/settingsService.ts:22](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/settingsService.ts#L22)
+[src/services/settingsService.ts:22](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/settingsService.ts#L22)

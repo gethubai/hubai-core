@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[src/model/workbench/auxiliaryBar.ts:5](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/auxiliaryBar.ts#L5)
+[src/model/workbench/auxiliaryBar.ts:5](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/auxiliaryBar.ts#L5)

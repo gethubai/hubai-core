@@ -58,7 +58,7 @@ Set replace value for replace input
 
 #### Defined in
 
-[src/services/workbench/searchService.ts:20](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/searchService.ts#L20)
+[src/services/workbench/searchService.ts:20](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/searchService.ts#L20)
 
 ___
 
@@ -84,7 +84,7 @@ Set result data for searching result
 
 #### Defined in
 
-[src/services/workbench/searchService.ts:24](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/searchService.ts#L24)
+[src/services/workbench/searchService.ts:24](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/searchService.ts#L24)
 
 ___
 
@@ -110,7 +110,7 @@ Set search value for search input
 
 #### Defined in
 
-[src/services/workbench/searchService.ts:16](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/searchService.ts#L16)
+[src/services/workbench/searchService.ts:16](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/searchService.ts#L16)
 
 ___
 
@@ -136,7 +136,7 @@ Set informations about validating,
 
 #### Defined in
 
-[src/services/workbench/searchService.ts:12](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/searchService.ts#L12)
+[src/services/workbench/searchService.ts:12](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/searchService.ts#L12)
 
 ___
 
@@ -150,7 +150,7 @@ Component.state
 
 #### Defined in
 
-[src/react/component.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/react/component.ts#L44)
+[src/react/component.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/react/component.ts#L44)
 
 ___
 
@@ -170,7 +170,7 @@ Toggle the rule for case senstitive when searching
 
 #### Defined in
 
-[src/services/workbench/searchService.ts:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/searchService.ts#L32)
+[src/services/workbench/searchService.ts:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/searchService.ts#L32)
 
 ___
 
@@ -196,7 +196,7 @@ Toggle search mode, `true` for replace mode
 
 #### Defined in
 
-[src/services/workbench/searchService.ts:28](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/searchService.ts#L28)
+[src/services/workbench/searchService.ts:28](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/searchService.ts#L28)
 
 ___
 
@@ -216,7 +216,7 @@ Toggle the rule for preserving case when replacing
 
 #### Defined in
 
-[src/services/workbench/searchService.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/searchService.ts#L44)
+[src/services/workbench/searchService.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/searchService.ts#L44)
 
 ___
 
@@ -236,7 +236,7 @@ Toggle the rule for enabling regex when searching
 
 #### Defined in
 
-[src/services/workbench/searchService.ts:40](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/searchService.ts#L40)
+[src/services/workbench/searchService.ts:40](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/searchService.ts#L40)
 
 ___
 
@@ -256,7 +256,7 @@ Toggle the rule for finding whole word when searching
 
 #### Defined in
 
-[src/services/workbench/searchService.ts:36](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/searchService.ts#L36)
+[src/services/workbench/searchService.ts:36](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/searchService.ts#L36)
 
 ___
 
@@ -283,7 +283,7 @@ Update the status of specific addon icon to `checked`
 
 #### Defined in
 
-[src/services/workbench/searchService.ts:48](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/searchService.ts#L48)
+[src/services/workbench/searchService.ts:48](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/searchService.ts#L48)
 
 ## Methods
 
@@ -305,7 +305,7 @@ Listen to the event about the value of search input changed
 
 #### Defined in
 
-[src/services/workbench/searchService.ts:56](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/searchService.ts#L56)
+[src/services/workbench/searchService.ts:56](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/searchService.ts#L56)
 
 ___
 
@@ -327,7 +327,7 @@ Listen to the event about replace all text in result
 
 #### Defined in
 
-[src/services/workbench/searchService.ts:75](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/searchService.ts#L75)
+[src/services/workbench/searchService.ts:75](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/searchService.ts#L75)
 
 ___
 
@@ -349,7 +349,7 @@ Listen to the click event in result data
 
 #### Defined in
 
-[src/services/workbench/searchService.ts:79](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/searchService.ts#L79)
+[src/services/workbench/searchService.ts:79](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/searchService.ts#L79)
 
 ___
 
@@ -371,7 +371,7 @@ Listen to the event about going to search result via values or config changed
 
 #### Defined in
 
-[src/services/workbench/searchService.ts:60](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/searchService.ts#L60)
+[src/services/workbench/searchService.ts:60](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/searchService.ts#L60)
 
 ___
 
@@ -387,7 +387,7 @@ Reset the search input data
 
 #### Defined in
 
-[src/services/workbench/searchService.ts:52](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/searchService.ts#L52)
+[src/services/workbench/searchService.ts:52](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/searchService.ts#L52)
 
 ___
 
@@ -414,7 +414,7 @@ Component.subscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L11)
+[src/common/event/eventBus.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L11)
 
 ___
 
@@ -441,4 +441,4 @@ Component.unsubscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L39)
+[src/common/event/eventBus.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L39)

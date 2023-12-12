@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[src/model/workbench/explorer/explorer.tsx:42](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/explorer.tsx#L42)
+[src/model/workbench/explorer/explorer.tsx:42](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/explorer.tsx#L42)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/explorer.tsx:40](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/explorer.tsx#L40)
+[src/model/workbench/explorer/explorer.tsx:40](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/explorer.tsx#L40)
 
 ___
 
@@ -42,4 +42,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/explorer.tsx:41](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/explorer.tsx#L41)
+[src/model/workbench/explorer/explorer.tsx:41](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/explorer.tsx#L41)

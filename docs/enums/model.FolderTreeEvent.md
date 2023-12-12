@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:21](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L21)
+[src/model/workbench/explorer/folderTree.tsx:21](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L21)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:22](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L22)
+[src/model/workbench/explorer/folderTree.tsx:22](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L22)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:17](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L17)
+[src/model/workbench/explorer/folderTree.tsx:17](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L17)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:24](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L24)
+[src/model/workbench/explorer/folderTree.tsx:24](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L24)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:25](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L25)
+[src/model/workbench/explorer/folderTree.tsx:25](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L25)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:23](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L23)
+[src/model/workbench/explorer/folderTree.tsx:23](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L23)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:18](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L18)
+[src/model/workbench/explorer/folderTree.tsx:18](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L18)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:20](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L20)
+[src/model/workbench/explorer/folderTree.tsx:20](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L20)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:16](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L16)
+[src/model/workbench/explorer/folderTree.tsx:16](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L16)
 
 ___
 
@@ -115,4 +115,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:19](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L19)
+[src/model/workbench/explorer/folderTree.tsx:19](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L19)

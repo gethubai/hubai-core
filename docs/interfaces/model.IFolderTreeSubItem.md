@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L35)
+[src/model/workbench/explorer/folderTree.tsx:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L35)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:37](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L37)
+[src/model/workbench/explorer/folderTree.tsx:37](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L37)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:34](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L34)
+[src/model/workbench/explorer/folderTree.tsx:34](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L34)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:38](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L38)
+[src/model/workbench/explorer/folderTree.tsx:38](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L38)
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:36](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L36)
+[src/model/workbench/explorer/folderTree.tsx:36](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L36)
 
 ___
 
@@ -71,4 +71,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L39)
+[src/model/workbench/explorer/folderTree.tsx:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L39)

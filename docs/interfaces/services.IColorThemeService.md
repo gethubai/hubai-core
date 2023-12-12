@@ -39,7 +39,7 @@ This will update the duplicated themes found in `colorThemes`
 
 #### Defined in
 
-[src/services/theme/colorThemeService.ts:18](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/theme/colorThemeService.ts#L18)
+[src/services/theme/colorThemeService.ts:18](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/theme/colorThemeService.ts#L18)
 
 ___
 
@@ -55,7 +55,7 @@ Get the current Color Theme
 
 #### Defined in
 
-[src/services/theme/colorThemeService.ts:42](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/theme/colorThemeService.ts#L42)
+[src/services/theme/colorThemeService.ts:42](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/theme/colorThemeService.ts#L42)
 
 ___
 
@@ -71,7 +71,7 @@ Get the mode('dark' or 'light') of the current Color Theme
 
 #### Defined in
 
-[src/services/theme/colorThemeService.ts:54](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/theme/colorThemeService.ts#L54)
+[src/services/theme/colorThemeService.ts:54](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/theme/colorThemeService.ts#L54)
 
 ___
 
@@ -93,7 +93,7 @@ Get specific theme via id
 
 #### Defined in
 
-[src/services/theme/colorThemeService.ts:38](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/theme/colorThemeService.ts#L38)
+[src/services/theme/colorThemeService.ts:38](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/theme/colorThemeService.ts#L38)
 
 ___
 
@@ -109,7 +109,7 @@ Get all themes in `colorThemes`
 
 #### Defined in
 
-[src/services/theme/colorThemeService.ts:33](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/theme/colorThemeService.ts#L33)
+[src/services/theme/colorThemeService.ts:33](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/theme/colorThemeService.ts#L33)
 
 ___
 
@@ -131,7 +131,7 @@ Listen to the theme changed event
 
 #### Defined in
 
-[src/services/theme/colorThemeService.ts:59](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/theme/colorThemeService.ts#L59)
+[src/services/theme/colorThemeService.ts:59](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/theme/colorThemeService.ts#L59)
 
 ___
 
@@ -147,7 +147,7 @@ Reload current theme
 
 #### Defined in
 
-[src/services/theme/colorThemeService.ts:46](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/theme/colorThemeService.ts#L46)
+[src/services/theme/colorThemeService.ts:46](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/theme/colorThemeService.ts#L46)
 
 ___
 
@@ -163,7 +163,7 @@ Reset theme
 
 #### Defined in
 
-[src/services/theme/colorThemeService.ts:50](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/theme/colorThemeService.ts#L50)
+[src/services/theme/colorThemeService.ts:50](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/theme/colorThemeService.ts#L50)
 
 ___
 
@@ -186,7 +186,7 @@ Please ensure the theme could be found in `colorThemes`
 
 #### Defined in
 
-[src/services/theme/colorThemeService.ts:24](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/theme/colorThemeService.ts#L24)
+[src/services/theme/colorThemeService.ts:24](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/theme/colorThemeService.ts#L24)
 
 ___
 
@@ -208,4 +208,4 @@ Update specific theme,
 
 #### Defined in
 
-[src/services/theme/colorThemeService.ts:29](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/theme/colorThemeService.ts#L29)
+[src/services/theme/colorThemeService.ts:29](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/theme/colorThemeService.ts#L29)

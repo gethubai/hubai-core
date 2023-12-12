@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/model/workbench/explorer/explorer.tsx:29](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/explorer.tsx#L29)
+[src/model/workbench/explorer/explorer.tsx:29](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/explorer.tsx#L29)
 
 ___
 
@@ -38,7 +38,7 @@ whether hidden in explorer
 
 #### Defined in
 
-[src/model/workbench/explorer/explorer.tsx:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/explorer.tsx#L35)
+[src/model/workbench/explorer/explorer.tsx:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/explorer.tsx#L35)
 
 ___
 
@@ -50,7 +50,7 @@ It must be unique in the Explorer Panel Data
 
 #### Defined in
 
-[src/model/workbench/explorer/explorer.tsx:18](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/explorer.tsx#L18)
+[src/model/workbench/explorer/explorer.tsx:18](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/explorer.tsx#L18)
 
 ___
 
@@ -65,7 +65,7 @@ explorer panel's title
 
 #### Defined in
 
-[src/model/workbench/explorer/explorer.tsx:23](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/explorer.tsx#L23)
+[src/model/workbench/explorer/explorer.tsx:23](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/explorer.tsx#L23)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/explorer.tsx:31](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/explorer.tsx#L31)
+[src/model/workbench/explorer/explorer.tsx:31](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/explorer.tsx#L31)
 
 ___
 
@@ -88,7 +88,7 @@ the bigger the number is ranked previous
 
 #### Defined in
 
-[src/model/workbench/explorer/explorer.tsx:28](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/explorer.tsx#L28)
+[src/model/workbench/explorer/explorer.tsx:28](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/explorer.tsx#L28)
 
 ___
 
@@ -98,4 +98,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/explorer.tsx:30](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/explorer.tsx#L30)
+[src/model/workbench/explorer/explorer.tsx:30](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/explorer.tsx#L30)

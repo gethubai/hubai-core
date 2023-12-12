@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[src/model/notification.tsx:21](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L21)
+[src/model/notification.tsx:21](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L21)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[src/common/types.ts:4](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/types.ts#L4)
+[src/common/types.ts:4](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/types.ts#L4)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/statusBar.tsx:13](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/statusBar.tsx#L13)
+[src/model/workbench/statusBar.tsx:13](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/statusBar.tsx#L13)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/statusBar.tsx:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/statusBar.tsx#L11)
+[src/model/workbench/statusBar.tsx:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/statusBar.tsx#L11)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/statusBar.tsx:16](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/statusBar.tsx#L16)
+[src/model/workbench/statusBar.tsx:16](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/statusBar.tsx#L16)
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/statusBar.tsx:15](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/statusBar.tsx#L15)
+[src/model/workbench/statusBar.tsx:15](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/statusBar.tsx#L15)
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 #### Defined in
 
-[src/common/types.ts:5](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/types.ts#L5)
+[src/common/types.ts:5](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/types.ts#L5)
 
 ___
 
@@ -154,7 +154,7 @@ ___
 
 #### Defined in
 
-[src/model/notification.tsx:20](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/notification.tsx#L20)
+[src/model/notification.tsx:20](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/notification.tsx#L20)
 
 ___
 
@@ -168,7 +168,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/statusBar.tsx:12](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/statusBar.tsx#L12)
+[src/model/workbench/statusBar.tsx:12](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/statusBar.tsx#L12)
 
 ___
 
@@ -182,7 +182,7 @@ ___
 
 #### Defined in
 
-[src/common/types.ts:3](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/types.ts#L3)
+[src/common/types.ts:3](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/types.ts#L3)
 
 ___
 
@@ -196,7 +196,7 @@ ___
 
 #### Defined in
 
-[src/common/types.ts:2](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/types.ts#L2)
+[src/common/types.ts:2](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/types.ts#L2)
 
 ## Methods
 
@@ -221,4 +221,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/statusBar.tsx:14](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/statusBar.tsx#L14)
+[src/model/workbench/statusBar.tsx:14](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/statusBar.tsx#L14)

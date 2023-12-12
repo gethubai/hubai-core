@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[src/model/workbench/sidebar.ts:4](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/sidebar.ts#L4)
+[src/model/workbench/sidebar.ts:4](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/sidebar.ts#L4)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/sidebar.ts:6](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/sidebar.ts#L6)
+[src/model/workbench/sidebar.ts:6](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/sidebar.ts#L6)
 
 ___
 
@@ -46,4 +46,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/sidebar.ts:5](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/sidebar.ts#L5)
+[src/model/workbench/sidebar.ts:5](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/sidebar.ts#L5)

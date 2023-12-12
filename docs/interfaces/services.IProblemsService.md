@@ -37,7 +37,7 @@ Component.state
 
 #### Defined in
 
-[src/react/component.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/react/component.ts#L44)
+[src/react/component.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/react/component.ts#L44)
 
 ## Methods
 
@@ -59,7 +59,7 @@ Add single or multiple items data
 
 #### Defined in
 
-[src/services/problemsService.ts:16](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/problemsService.ts#L16)
+[src/services/problemsService.ts:16](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/problemsService.ts#L16)
 
 ___
 
@@ -81,7 +81,7 @@ Listen to select a problem tree node
 
 #### Defined in
 
-[src/services/problemsService.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/problemsService.ts#L39)
+[src/services/problemsService.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/problemsService.ts#L39)
 
 ___
 
@@ -103,7 +103,7 @@ Remove the specific problem items
 
 #### Defined in
 
-[src/services/problemsService.ts:21](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/problemsService.ts#L21)
+[src/services/problemsService.ts:21](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/problemsService.ts#L21)
 
 ___
 
@@ -119,7 +119,7 @@ Reset the ProblemsService state data
 
 #### Defined in
 
-[src/services/problemsService.ts:25](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/problemsService.ts#L25)
+[src/services/problemsService.ts:25](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/problemsService.ts#L25)
 
 ___
 
@@ -146,7 +146,7 @@ Component.subscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L11)
+[src/common/event/eventBus.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L11)
 
 ___
 
@@ -162,7 +162,7 @@ Toggle the Problems view between display or hidden
 
 #### Defined in
 
-[src/services/problemsService.ts:34](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/problemsService.ts#L34)
+[src/services/problemsService.ts:34](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/problemsService.ts#L34)
 
 ___
 
@@ -189,7 +189,7 @@ Component.unsubscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L39)
+[src/common/event/eventBus.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L39)
 
 ___
 
@@ -217,4 +217,4 @@ Update the specific data
 
 #### Defined in
 
-[src/services/problemsService.ts:30](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/problemsService.ts#L30)
+[src/services/problemsService.ts:30](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/problemsService.ts#L30)

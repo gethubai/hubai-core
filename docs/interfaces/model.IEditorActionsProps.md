@@ -39,7 +39,7 @@ IMenuItemProps.className
 
 #### Defined in
 
-[src/common/types.ts:4](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/types.ts#L4)
+[src/common/types.ts:4](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/types.ts#L4)
 
 ___
 
@@ -53,7 +53,7 @@ IMenuItemProps.disabled
 
 #### Defined in
 
-[src/components/menu/menuItem.tsx:26](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/menu/menuItem.tsx#L26)
+[src/components/menu/menuItem.tsx:26](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/menu/menuItem.tsx#L26)
 
 ___
 
@@ -69,7 +69,7 @@ IMenuItemProps.icon
 
 #### Defined in
 
-[src/components/menu/menuItem.tsx:20](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/menu/menuItem.tsx#L20)
+[src/components/menu/menuItem.tsx:20](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/menu/menuItem.tsx#L20)
 
 ___
 
@@ -83,7 +83,7 @@ IMenuItemProps.id
 
 #### Defined in
 
-[src/model/workbench/editor.ts:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L35)
+[src/model/workbench/editor.ts:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L35)
 
 ___
 
@@ -100,7 +100,7 @@ IMenuItemProps.keybinding
 
 #### Defined in
 
-[src/components/menu/menuItem.tsx:31](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/menu/menuItem.tsx#L31)
+[src/components/menu/menuItem.tsx:31](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/menu/menuItem.tsx#L31)
 
 ___
 
@@ -116,7 +116,7 @@ IMenuItemProps.name
 
 #### Defined in
 
-[src/components/menu/menuItem.tsx:25](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/menu/menuItem.tsx#L25)
+[src/components/menu/menuItem.tsx:25](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/menu/menuItem.tsx#L25)
 
 ___
 
@@ -145,7 +145,7 @@ IMenuItemProps.onClick
 
 #### Defined in
 
-[src/components/menu/menuItem.tsx:36](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/menu/menuItem.tsx#L36)
+[src/components/menu/menuItem.tsx:36](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/menu/menuItem.tsx#L36)
 
 ___
 
@@ -157,7 +157,7 @@ Mark the action placed in More menus or outer
 
 #### Defined in
 
-[src/model/workbench/editor.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L39)
+[src/model/workbench/editor.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L39)
 
 ___
 
@@ -187,7 +187,7 @@ IMenuItemProps.render
 
 #### Defined in
 
-[src/components/menu/menuItem.tsx:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/menu/menuItem.tsx#L35)
+[src/components/menu/menuItem.tsx:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/menu/menuItem.tsx#L35)
 
 ___
 
@@ -201,7 +201,7 @@ IMenuItemProps.role
 
 #### Defined in
 
-[src/common/types.ts:5](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/types.ts#L5)
+[src/common/types.ts:5](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/types.ts#L5)
 
 ___
 
@@ -215,7 +215,7 @@ IMenuItemProps.sortIndex
 
 #### Defined in
 
-[src/components/menu/menuItem.tsx:37](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/menu/menuItem.tsx#L37)
+[src/components/menu/menuItem.tsx:37](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/menu/menuItem.tsx#L37)
 
 ___
 
@@ -229,7 +229,7 @@ IMenuItemProps.style
 
 #### Defined in
 
-[src/common/types.ts:3](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/types.ts#L3)
+[src/common/types.ts:3](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/types.ts#L3)
 
 ___
 
@@ -243,7 +243,7 @@ IMenuItemProps.title
 
 #### Defined in
 
-[src/common/types.ts:2](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/types.ts#L2)
+[src/common/types.ts:2](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/types.ts#L2)
 
 ___
 
@@ -257,4 +257,4 @@ IMenuItemProps.type
 
 #### Defined in
 
-[src/components/menu/menuItem.tsx:21](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/menu/menuItem.tsx#L21)
+[src/components/menu/menuItem.tsx:21](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/menu/menuItem.tsx#L21)

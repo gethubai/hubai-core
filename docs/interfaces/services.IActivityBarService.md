@@ -41,7 +41,7 @@ Component.state
 
 #### Defined in
 
-[src/react/component.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/react/component.ts#L44)
+[src/react/component.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/react/component.ts#L44)
 
 ## Methods
 
@@ -64,7 +64,7 @@ Add IActivityBarItem data
 
 #### Defined in
 
-[src/services/workbench/activityBarService.ts:18](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/activityBarService.ts#L18)
+[src/services/workbench/activityBarService.ts:18](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/activityBarService.ts#L18)
 
 ___
 
@@ -86,7 +86,7 @@ Add new contextMenus for the activityBar
 
 #### Defined in
 
-[src/services/workbench/activityBarService.ts:41](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/activityBarService.ts#L41)
+[src/services/workbench/activityBarService.ts:41](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/activityBarService.ts#L41)
 
 ___
 
@@ -108,7 +108,7 @@ Called when activity bar item which is not global is changed
 
 #### Defined in
 
-[src/services/workbench/activityBarService.ts:55](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/activityBarService.ts#L55)
+[src/services/workbench/activityBarService.ts:55](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/activityBarService.ts#L55)
 
 ___
 
@@ -130,7 +130,7 @@ Add click event listener
 
 #### Defined in
 
-[src/services/workbench/activityBarService.ts:51](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/activityBarService.ts#L51)
+[src/services/workbench/activityBarService.ts:51](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/activityBarService.ts#L51)
 
 ___
 
@@ -152,7 +152,7 @@ Remove the specific activity bar by id
 
 #### Defined in
 
-[src/services/workbench/activityBarService.ts:27](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/activityBarService.ts#L27)
+[src/services/workbench/activityBarService.ts:27](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/activityBarService.ts#L27)
 
 ___
 
@@ -174,7 +174,7 @@ Remove the specific contextMenu item by id
 
 #### Defined in
 
-[src/services/workbench/activityBarService.ts:46](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/activityBarService.ts#L46)
+[src/services/workbench/activityBarService.ts:46](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/activityBarService.ts#L46)
 
 ___
 
@@ -192,7 +192,7 @@ and then using the activityBar.add() method to fill the data you need.
 
 #### Defined in
 
-[src/services/workbench/activityBarService.ts:13](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/activityBarService.ts#L13)
+[src/services/workbench/activityBarService.ts:13](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/activityBarService.ts#L13)
 
 ___
 
@@ -214,7 +214,7 @@ Set active bar
 
 #### Defined in
 
-[src/services/workbench/activityBarService.ts:22](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/activityBarService.ts#L22)
+[src/services/workbench/activityBarService.ts:22](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/activityBarService.ts#L22)
 
 ___
 
@@ -241,7 +241,7 @@ Component.subscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L11)
+[src/common/event/eventBus.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L11)
 
 ___
 
@@ -263,7 +263,7 @@ Toggle the specific activity bar between show or hide
 
 #### Defined in
 
-[src/services/workbench/activityBarService.ts:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/activityBarService.ts#L32)
+[src/services/workbench/activityBarService.ts:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/activityBarService.ts#L32)
 
 ___
 
@@ -285,7 +285,7 @@ Toggle the contextMenu between checked or unchecked
 
 #### Defined in
 
-[src/services/workbench/activityBarService.ts:37](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/activityBarService.ts#L37)
+[src/services/workbench/activityBarService.ts:37](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/activityBarService.ts#L37)
 
 ___
 
@@ -312,4 +312,4 @@ Component.unsubscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L39)
+[src/common/event/eventBus.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L39)

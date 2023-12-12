@@ -43,7 +43,7 @@ which means you can't get the Extension by the `ExtensionService. getExtension` 
 
 #### Defined in
 
-[src/services/extensionService.ts:27](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/extensionService.ts#L27)
+[src/services/extensionService.ts:27](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/extensionService.ts#L27)
 
 ___
 
@@ -67,7 +67,7 @@ Unload Extensions
 
 #### Defined in
 
-[src/services/extensionService.ts:20](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/extensionService.ts#L20)
+[src/services/extensionService.ts:20](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/extensionService.ts#L20)
 
 ___
 
@@ -89,7 +89,7 @@ Dispose the specific extension, and remove it from the ExtensionService
 
 #### Defined in
 
-[src/services/extensionService.ts:42](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/extensionService.ts#L42)
+[src/services/extensionService.ts:42](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/extensionService.ts#L42)
 
 ___
 
@@ -105,7 +105,7 @@ Dispose all extensions, and reset the ExtensionService
 
 #### Defined in
 
-[src/services/extensionService.ts:46](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/extensionService.ts#L46)
+[src/services/extensionService.ts:46](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/extensionService.ts#L46)
 
 ___
 
@@ -128,7 +128,7 @@ Execute the registered command
 
 #### Defined in
 
-[src/services/extensionService.ts:79](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/extensionService.ts#L79)
+[src/services/extensionService.ts:79](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/extensionService.ts#L79)
 
 ___
 
@@ -146,7 +146,7 @@ Extension Array
 
 #### Defined in
 
-[src/services/extensionService.ts:37](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/extensionService.ts#L37)
+[src/services/extensionService.ts:37](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/extensionService.ts#L37)
 
 ___
 
@@ -168,7 +168,7 @@ Get an extension by the ID
 
 #### Defined in
 
-[src/services/extensionService.ts:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/extensionService.ts#L32)
+[src/services/extensionService.ts:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/extensionService.ts#L32)
 
 ___
 
@@ -202,7 +202,7 @@ extensions no need to activate. You need register the inactive event before the 
 
 #### Defined in
 
-[src/services/extensionService.ts:61](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/extensionService.ts#L61)
+[src/services/extensionService.ts:61](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/extensionService.ts#L61)
 
 ___
 
@@ -218,7 +218,7 @@ whether the extensions are loaded
 
 #### Defined in
 
-[src/services/extensionService.ts:93](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/extensionService.ts#L93)
+[src/services/extensionService.ts:93](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/extensionService.ts#L93)
 
 ___
 
@@ -243,7 +243,7 @@ remove a extension, you can use the `ExtensionService.dispose` method.
 
 #### Defined in
 
-[src/services/extensionService.ts:14](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/extensionService.ts#L14)
+[src/services/extensionService.ts:14](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/extensionService.ts#L14)
 
 ___
 
@@ -275,7 +275,7 @@ disposableAction.dispose(); // Dispose the action
 
 #### Defined in
 
-[src/services/extensionService.ts:73](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/extensionService.ts#L73)
+[src/services/extensionService.ts:73](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/extensionService.ts#L73)
 
 ___
 
@@ -291,7 +291,7 @@ Reset the extensions to `[]`
 
 #### Defined in
 
-[src/services/extensionService.ts:83](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/extensionService.ts#L83)
+[src/services/extensionService.ts:83](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/extensionService.ts#L83)
 
 ___
 
@@ -313,7 +313,7 @@ Set the extensions are loaded
 
 #### Defined in
 
-[src/services/extensionService.ts:97](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/extensionService.ts#L97)
+[src/services/extensionService.ts:97](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/extensionService.ts#L97)
 
 ___
 
@@ -337,4 +337,4 @@ Distinguish the language extensions from extensions
 
 #### Defined in
 
-[src/services/extensionService.ts:89](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/extensionService.ts#L89)
+[src/services/extensionService.ts:89](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/extensionService.ts#L89)

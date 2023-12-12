@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[src/model/settings.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/settings.ts#L39)
+[src/model/settings.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/settings.ts#L39)
 
 ## Properties
 
@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[src/model/settings.ts:36](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/settings.ts#L36)
+[src/model/settings.ts:36](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/settings.ts#L36)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/model/settings.ts:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/settings.ts#L32)
+[src/model/settings.ts:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/settings.ts#L32)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[src/model/settings.ts:33](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/settings.ts#L33)
+[src/model/settings.ts:33](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/settings.ts#L33)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[src/model/settings.ts:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/settings.ts#L35)
+[src/model/settings.ts:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/settings.ts#L35)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[src/model/settings.ts:34](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/settings.ts#L34)
+[src/model/settings.ts:34](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/settings.ts#L34)

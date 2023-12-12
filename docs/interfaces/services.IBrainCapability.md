@@ -2,6 +2,8 @@
 
 [services](../modules/services.md).IBrainCapability
 
+Interface representing a generic brain capability.
+
 ## Hierarchy
 
 - **`IBrainCapability`**

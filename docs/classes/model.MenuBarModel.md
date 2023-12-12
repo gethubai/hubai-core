@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[src/model/workbench/menuBar.ts:34](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/menuBar.ts#L34)
+[src/model/workbench/menuBar.ts:34](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/menuBar.ts#L34)
 
 ## Properties
 
@@ -48,4 +48,4 @@
 
 #### Defined in
 
-[src/model/workbench/menuBar.ts:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/menuBar.ts#L32)
+[src/model/workbench/menuBar.ts:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/menuBar.ts#L32)

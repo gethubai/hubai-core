@@ -20,7 +20,7 @@ Color scheme used by the OS and by color themes.
 
 #### Defined in
 
-[src/model/colorTheme.ts:14](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L14)
+[src/model/colorTheme.ts:14](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L14)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/model/colorTheme.ts:16](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L16)
+[src/model/colorTheme.ts:16](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L16)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/model/colorTheme.ts:15](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L15)
+[src/model/colorTheme.ts:15](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L15)

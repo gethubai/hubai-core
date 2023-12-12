@@ -13,6 +13,7 @@
 - [activityBar](model.AppContextServices.md#activitybar)
 - [auxiliaryBar](model.AppContextServices.md#auxiliarybar)
 - [brainClientManager](model.AppContextServices.md#brainclientmanager)
+- [chatAssistantsManager](model.AppContextServices.md#chatassistantsmanager)
 - [editor](model.AppContextServices.md#editor)
 - [extension](model.AppContextServices.md#extension)
 - [layout](model.AppContextServices.md#layout)
@@ -22,12 +23,14 @@
 - [settings](model.AppContextServices.md#settings)
 - [sidebar](model.AppContextServices.md#sidebar)
 - [theme](model.AppContextServices.md#theme)
+- [toast](model.AppContextServices.md#toast)
+- [userShortcut](model.AppContextServices.md#usershortcut)
 
 ## Constructors
 
 ### constructor
 
-• **new AppContextServices**(`sidebar`, `activityBar`, `menuBar`, `editor`, `notification`, `theme`, `problems`, `settings`, `extension`, `layout`, `auxiliaryBar`, `brainClientManager`): [`AppContextServices`](model.AppContextServices.md)
+• **new AppContextServices**(`sidebar`, `activityBar`, `menuBar`, `editor`, `notification`, `theme`, `problems`, `settings`, `extension`, `layout`, `auxiliaryBar`, `brainClientManager`, `toast`, `userShortcut`, `chatAssistantsManager`): [`AppContextServices`](model.AppContextServices.md)
 
 #### Parameters
 
@@ -45,6 +48,9 @@
 | `layout` | [`ILayoutService`](../interfaces/services.ILayoutService.md) |
 | `auxiliaryBar` | [`IAuxiliaryBarService`](../interfaces/services.IAuxiliaryBarService.md) |
 | `brainClientManager` | [`IBrainClientManager`](../interfaces/services.IBrainClientManager.md) |
+| `toast` | [`IToastService`](../interfaces/services.IToastService.md) |
+| `userShortcut` | [`IUserShortcutService`](../modules/services.md#iusershortcutservice) |
+| `chatAssistantsManager` | [`IChatAssistantsManagement`](../interfaces/services.IChatAssistantsManagement.md) |
 
 #### Returns
 
@@ -52,7 +58,7 @@
 
 #### Defined in
 
-[src/model/appContext.ts:38](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/appContext.ts#L38)
+[src/model/appContext.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L44)
 
 ## Properties
 
@@ -62,7 +68,7 @@
 
 #### Defined in
 
-[src/model/appContext.ts:26](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/appContext.ts#L26)
+[src/model/appContext.ts:29](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L29)
 
 ___
 
@@ -72,7 +78,7 @@ ___
 
 #### Defined in
 
-[src/model/appContext.ts:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/appContext.ts#L35)
+[src/model/appContext.ts:38](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L38)
 
 ___
 
@@ -82,7 +88,17 @@ ___
 
 #### Defined in
 
-[src/model/appContext.ts:36](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/appContext.ts#L36)
+[src/model/appContext.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L39)
+
+___
+
+### chatAssistantsManager
+
+• **chatAssistantsManager**: [`IChatAssistantsManagement`](../interfaces/services.IChatAssistantsManagement.md)
+
+#### Defined in
+
+[src/model/appContext.ts:42](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L42)
 
 ___
 
@@ -92,7 +108,7 @@ ___
 
 #### Defined in
 
-[src/model/appContext.ts:28](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/appContext.ts#L28)
+[src/model/appContext.ts:31](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L31)
 
 ___
 
@@ -102,7 +118,7 @@ ___
 
 #### Defined in
 
-[src/model/appContext.ts:33](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/appContext.ts#L33)
+[src/model/appContext.ts:36](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L36)
 
 ___
 
@@ -112,7 +128,7 @@ ___
 
 #### Defined in
 
-[src/model/appContext.ts:34](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/appContext.ts#L34)
+[src/model/appContext.ts:37](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L37)
 
 ___
 
@@ -122,7 +138,7 @@ ___
 
 #### Defined in
 
-[src/model/appContext.ts:27](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/appContext.ts#L27)
+[src/model/appContext.ts:30](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L30)
 
 ___
 
@@ -132,7 +148,7 @@ ___
 
 #### Defined in
 
-[src/model/appContext.ts:29](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/appContext.ts#L29)
+[src/model/appContext.ts:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L32)
 
 ___
 
@@ -142,7 +158,7 @@ ___
 
 #### Defined in
 
-[src/model/appContext.ts:31](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/appContext.ts#L31)
+[src/model/appContext.ts:34](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L34)
 
 ___
 
@@ -152,7 +168,7 @@ ___
 
 #### Defined in
 
-[src/model/appContext.ts:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/appContext.ts#L32)
+[src/model/appContext.ts:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L35)
 
 ___
 
@@ -162,7 +178,7 @@ ___
 
 #### Defined in
 
-[src/model/appContext.ts:25](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/appContext.ts#L25)
+[src/model/appContext.ts:28](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L28)
 
 ___
 
@@ -172,4 +188,24 @@ ___
 
 #### Defined in
 
-[src/model/appContext.ts:30](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/appContext.ts#L30)
+[src/model/appContext.ts:33](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L33)
+
+___
+
+### toast
+
+• **toast**: [`IToastService`](../interfaces/services.IToastService.md)
+
+#### Defined in
+
+[src/model/appContext.ts:40](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L40)
+
+___
+
+### userShortcut
+
+• **userShortcut**: [`IUserShortcutService`](../modules/services.md#iusershortcutservice)
+
+#### Defined in
+
+[src/model/appContext.ts:41](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L41)

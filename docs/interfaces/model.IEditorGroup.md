@@ -49,7 +49,7 @@
 
 #### Defined in
 
-[src/model/workbench/editor.ts:59](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L59)
+[src/model/workbench/editor.ts:59](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L59)
 
 ___
 
@@ -63,7 +63,7 @@ ITabsProps.activeTab
 
 #### Defined in
 
-[src/components/tabs/index.tsx:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/index.tsx#L35)
+[src/components/tabs/index.tsx:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/index.tsx#L35)
 
 ___
 
@@ -77,7 +77,7 @@ ITabsProps.className
 
 #### Defined in
 
-[src/components/tabs/index.tsx:23](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/index.tsx#L23)
+[src/components/tabs/index.tsx:23](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/index.tsx#L23)
 
 ___
 
@@ -95,7 +95,7 @@ ITabsProps.closable
 
 #### Defined in
 
-[src/components/tabs/index.tsx:29](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/index.tsx#L29)
+[src/components/tabs/index.tsx:29](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/index.tsx#L29)
 
 ___
 
@@ -109,7 +109,7 @@ ITabsProps.data
 
 #### Defined in
 
-[src/components/tabs/index.tsx:34](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/index.tsx#L34)
+[src/components/tabs/index.tsx:34](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/index.tsx#L34)
 
 ___
 
@@ -127,7 +127,7 @@ ITabsProps.editable
 
 #### Defined in
 
-[src/components/tabs/index.tsx:33](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/index.tsx#L33)
+[src/components/tabs/index.tsx:33](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/index.tsx#L33)
 
 ___
 
@@ -137,7 +137,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/editor.ts:61](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L61)
+[src/model/workbench/editor.ts:61](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L61)
 
 ___
 
@@ -147,7 +147,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/editor.ts:54](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L54)
+[src/model/workbench/editor.ts:54](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L54)
 
 ___
 
@@ -157,7 +157,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/editor.ts:60](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L60)
+[src/model/workbench/editor.ts:60](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L60)
 
 ___
 
@@ -185,7 +185,7 @@ ITabsProps.onCloseTab
 
 #### Defined in
 
-[src/components/tabs/index.tsx:40](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/index.tsx#L40)
+[src/components/tabs/index.tsx:40](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/index.tsx#L40)
 
 ___
 
@@ -214,7 +214,7 @@ ITabsProps.onContextMenu
 
 #### Defined in
 
-[src/components/tabs/index.tsx:41](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/index.tsx#L41)
+[src/components/tabs/index.tsx:41](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/index.tsx#L41)
 
 ___
 
@@ -242,7 +242,7 @@ ITabsProps.onMoveTab
 
 #### Defined in
 
-[src/components/tabs/index.tsx:42](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/index.tsx#L42)
+[src/components/tabs/index.tsx:42](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/index.tsx#L42)
 
 ___
 
@@ -270,7 +270,7 @@ ITabsProps.onSelectTab
 
 #### Defined in
 
-[src/components/tabs/index.tsx:43](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/index.tsx#L43)
+[src/components/tabs/index.tsx:43](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/index.tsx#L43)
 
 ___
 
@@ -284,7 +284,7 @@ ITabsProps.role
 
 #### Defined in
 
-[src/components/tabs/index.tsx:25](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/index.tsx#L25)
+[src/components/tabs/index.tsx:25](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/index.tsx#L25)
 
 ___
 
@@ -298,7 +298,7 @@ ITabsProps.style
 
 #### Defined in
 
-[src/components/tabs/index.tsx:24](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/index.tsx#L24)
+[src/components/tabs/index.tsx:24](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/index.tsx#L24)
 
 ___
 
@@ -310,7 +310,7 @@ Current editor group tab
 
 #### Defined in
 
-[src/model/workbench/editor.ts:58](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L58)
+[src/model/workbench/editor.ts:58](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L58)
 
 ___
 
@@ -326,4 +326,4 @@ ITabsProps.type
 
 #### Defined in
 
-[src/components/tabs/index.tsx:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/index.tsx#L39)
+[src/components/tabs/index.tsx:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/index.tsx#L39)

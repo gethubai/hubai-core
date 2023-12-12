@@ -40,7 +40,7 @@ ITreeNodeItemProps.children
 
 #### Defined in
 
-[src/model/problems.tsx:26](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/problems.tsx#L26)
+[src/model/problems.tsx:26](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/problems.tsx#L26)
 
 ___
 
@@ -56,7 +56,7 @@ ITreeNodeItemProps.data
 
 #### Defined in
 
-[src/components/tree/index.tsx:55](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tree/index.tsx#L55)
+[src/components/tree/index.tsx:55](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tree/index.tsx#L55)
 
 ___
 
@@ -72,7 +72,7 @@ ITreeNodeItemProps.disabled
 
 #### Defined in
 
-[src/components/tree/index.tsx:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tree/index.tsx#L39)
+[src/components/tree/index.tsx:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tree/index.tsx#L39)
 
 ___
 
@@ -88,7 +88,7 @@ ITreeNodeItemProps.icon
 
 #### Defined in
 
-[src/components/tree/index.tsx:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tree/index.tsx#L35)
+[src/components/tree/index.tsx:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tree/index.tsx#L35)
 
 ___
 
@@ -108,7 +108,7 @@ ITreeNodeItemProps.id
 
 #### Defined in
 
-[src/components/tree/index.tsx:27](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tree/index.tsx#L27)
+[src/components/tree/index.tsx:27](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tree/index.tsx#L27)
 
 ___
 
@@ -124,7 +124,7 @@ ITreeNodeItemProps.isEditable
 
 #### Defined in
 
-[src/components/tree/index.tsx:47](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tree/index.tsx#L47)
+[src/components/tree/index.tsx:47](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tree/index.tsx#L47)
 
 ___
 
@@ -140,7 +140,7 @@ ITreeNodeItemProps.isLeaf
 
 #### Defined in
 
-[src/components/tree/index.tsx:43](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tree/index.tsx#L43)
+[src/components/tree/index.tsx:43](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tree/index.tsx#L43)
 
 ___
 
@@ -156,7 +156,7 @@ ITreeNodeItemProps.name
 
 #### Defined in
 
-[src/components/tree/index.tsx:31](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tree/index.tsx#L31)
+[src/components/tree/index.tsx:31](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tree/index.tsx#L31)
 
 ___
 
@@ -166,4 +166,4 @@ ___
 
 #### Defined in
 
-[src/model/problems.tsx:25](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/problems.tsx#L25)
+[src/model/problems.tsx:25](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/problems.tsx#L25)

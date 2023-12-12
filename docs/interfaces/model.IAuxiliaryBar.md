@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[src/model/workbench/auxiliaryBar.ts:16](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/auxiliaryBar.ts#L16)
+[src/model/workbench/auxiliaryBar.ts:16](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/auxiliaryBar.ts#L16)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/auxiliaryBar.ts:15](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/auxiliaryBar.ts#L15)
+[src/model/workbench/auxiliaryBar.ts:15](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/auxiliaryBar.ts#L15)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/auxiliaryBar.ts:14](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/auxiliaryBar.ts#L14)
+[src/model/workbench/auxiliaryBar.ts:14](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/auxiliaryBar.ts#L14)
 
 ___
 
@@ -53,4 +53,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/auxiliaryBar.ts:13](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/auxiliaryBar.ts#L13)
+[src/model/workbench/auxiliaryBar.ts:13](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/auxiliaryBar.ts#L13)

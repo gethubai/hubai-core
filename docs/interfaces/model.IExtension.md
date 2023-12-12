@@ -38,7 +38,7 @@ The categories of extension
 
 #### Defined in
 
-[src/model/extension.ts:65](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L65)
+[src/model/extension.ts:74](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L74)
 
 ___
 
@@ -51,7 +51,7 @@ Extension system will load the extension by this file
 
 #### Defined in
 
-[src/model/extension.ts:74](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L74)
+[src/model/extension.ts:83](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L83)
 
 ___
 
@@ -63,7 +63,7 @@ The description of extension
 
 #### Defined in
 
-[src/model/extension.ts:86](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L86)
+[src/model/extension.ts:95](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L95)
 
 ___
 
@@ -75,7 +75,7 @@ Whether disable current extension, the extension default status is enable
 
 #### Defined in
 
-[src/model/extension.ts:98](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L98)
+[src/model/extension.ts:107](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L107)
 
 ___
 
@@ -87,7 +87,7 @@ The display name of extension
 
 #### Defined in
 
-[src/model/extension.ts:57](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L57)
+[src/model/extension.ts:66](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L66)
 
 ___
 
@@ -99,7 +99,7 @@ The kind of extension
 
 #### Defined in
 
-[src/model/extension.ts:69](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L69)
+[src/model/extension.ts:78](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L78)
 
 ___
 
@@ -111,7 +111,7 @@ The Icon of extension
 
 #### Defined in
 
-[src/model/extension.ts:82](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L82)
+[src/model/extension.ts:91](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L91)
 
 ___
 
@@ -123,7 +123,7 @@ The ID of extension required
 
 #### Defined in
 
-[src/model/extension.ts:49](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L49)
+[src/model/extension.ts:58](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L58)
 
 ___
 
@@ -135,7 +135,7 @@ The entry of extension
 
 #### Defined in
 
-[src/model/extension.ts:78](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L78)
+[src/model/extension.ts:87](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L87)
 
 ___
 
@@ -147,7 +147,7 @@ The name of extension
 
 #### Defined in
 
-[src/model/extension.ts:53](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L53)
+[src/model/extension.ts:62](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L62)
 
 ___
 
@@ -159,7 +159,7 @@ The path of extension
 
 #### Defined in
 
-[src/model/extension.ts:94](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L94)
+[src/model/extension.ts:103](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L103)
 
 ___
 
@@ -171,7 +171,7 @@ The publisher of extension
 
 #### Defined in
 
-[src/model/extension.ts:90](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L90)
+[src/model/extension.ts:99](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L99)
 
 ___
 
@@ -183,13 +183,13 @@ The version of extension
 
 #### Defined in
 
-[src/model/extension.ts:61](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L61)
+[src/model/extension.ts:70](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L70)
 
 ## Methods
 
 ### activate
 
-▸ **activate**(`extensionCtx`): `void`
+▸ **activate**(`appContext`, `extensionContext`): `void`
 
 Do something you want when the Extension is activating.
 The ExtensionService will call the `activate` method after
@@ -199,7 +199,8 @@ added the Extension instance.
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `extensionCtx` | [`AppContext`](../classes/model.AppContext.md) | The Context of Extension instance |
+| `appContext` | [`AppContext`](../classes/model.AppContext.md) | The application context |
+| `extensionContext` | [`ExtensionContext`](../classes/model.ExtensionContext.md) | The extension context |
 
 #### Returns
 
@@ -207,13 +208,13 @@ added the Extension instance.
 
 #### Defined in
 
-[src/model/extension.ts:105](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L105)
+[src/model/extension.ts:115](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L115)
 
 ___
 
 ### dispose
 
-▸ **dispose**(`extensionCtx`): `void`
+▸ **dispose**(`appContext`): `void`
 
 Do something when the Extension disposing.
 For example, you can recover the UI state, or remove the Objects in memory.
@@ -222,7 +223,7 @@ For example, you can recover the UI state, or remove the Objects in memory.
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `extensionCtx` | [`AppContext`](../classes/model.AppContext.md) | The Context of Extension instance |
+| `appContext` | [`AppContext`](../classes/model.AppContext.md) | The application context |
 
 #### Returns
 
@@ -230,4 +231,4 @@ For example, you can recover the UI state, or remove the Objects in memory.
 
 #### Defined in
 
-[src/model/extension.ts:111](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L111)
+[src/model/extension.ts:121](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L121)

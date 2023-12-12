@@ -25,7 +25,7 @@ Current editor group
 
 #### Defined in
 
-[src/model/workbench/editor.ts:67](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L67)
+[src/model/workbench/editor.ts:67](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L67)
 
 ___
 
@@ -37,7 +37,7 @@ Built-in editor options, there is main apply it to monaco-editor
 
 #### Defined in
 
-[src/model/workbench/editor.ts:79](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L79)
+[src/model/workbench/editor.ts:79](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L79)
 
 ___
 
@@ -49,7 +49,7 @@ The welcome page of editor bench
 
 #### Defined in
 
-[src/model/workbench/editor.ts:75](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L75)
+[src/model/workbench/editor.ts:75](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L75)
 
 ___
 
@@ -61,4 +61,4 @@ Editor Groups
 
 #### Defined in
 
-[src/model/workbench/editor.ts:71](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L71)
+[src/model/workbench/editor.ts:71](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L71)

@@ -18,11 +18,11 @@
 
 ### chat
 
-• `Optional` **chat**: `IChatContribute`
+• `Optional` **chat**: [`IChatContribute`](model.IChatContribute.md)
 
 #### Defined in
 
-[src/model/extension.ts:38](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L38)
+[src/model/extension.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L39)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:33](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L33)
+[src/model/extension.ts:34](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L34)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:34](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L34)
+[src/model/extension.ts:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L35)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L35)
+[src/model/extension.ts:36](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L36)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:37](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L37)
+[src/model/extension.ts:38](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L38)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L32)
+[src/model/extension.ts:33](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L33)
 
 ___
 
@@ -82,4 +82,4 @@ ___
 
 #### Defined in
 
-[src/model/extension.ts:36](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/extension.ts#L36)
+[src/model/extension.ts:37](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/extension.ts#L37)

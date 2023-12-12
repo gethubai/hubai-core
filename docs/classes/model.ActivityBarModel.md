@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:48](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L48)
+[src/model/workbench/activityBar.ts:48](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L48)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L44)
+[src/model/workbench/activityBar.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L44)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:42](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L42)
+[src/model/workbench/activityBar.ts:42](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L42)
 
 ___
 
@@ -80,4 +80,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/activityBar.ts:46](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/activityBar.ts#L46)
+[src/model/workbench/activityBar.ts:46](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/activityBar.ts#L46)

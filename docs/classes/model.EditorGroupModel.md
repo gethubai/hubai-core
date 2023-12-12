@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[src/model/workbench/editor.ts:97](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L97)
+[src/model/workbench/editor.ts:97](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L97)
 
 ## Properties
 
@@ -74,7 +74,7 @@
 
 #### Defined in
 
-[src/model/workbench/editor.ts:89](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L89)
+[src/model/workbench/editor.ts:89](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L89)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/editor.ts:95](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L95)
+[src/model/workbench/editor.ts:95](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L95)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/editor.ts:87](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L87)
+[src/model/workbench/editor.ts:87](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L87)
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/editor.ts:93](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L93)
+[src/model/workbench/editor.ts:93](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L93)
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/editor.ts:83](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L83)
+[src/model/workbench/editor.ts:83](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L83)
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/editor.ts:91](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L91)
+[src/model/workbench/editor.ts:91](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L91)
 
 ___
 
@@ -160,4 +160,4 @@ Current editor group tab
 
 #### Defined in
 
-[src/model/workbench/editor.ts:85](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L85)
+[src/model/workbench/editor.ts:85](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L85)

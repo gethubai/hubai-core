@@ -2,6 +2,8 @@
 
 [services](../modules/services.md).IBrainClient
 
+Interface for a brain client, incorporating various capabilities.
+
 ## Table of contents
 
 ### Properties
@@ -17,9 +19,11 @@
 
 • **brain**: [`LocalBrain`](../modules/services.md#localbrain)
 
+The LocalBrain associated with the client.
+
 #### Defined in
 
-[src/services/brainClientService.ts:82](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/brainClientService.ts#L82)
+[src/services/brainClientService.ts:197](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/brainClientService.ts#L197)
 
 ___
 
@@ -27,9 +31,11 @@ ___
 
 • `Optional` **conversation**: [`ITextBrainCapability`](services.ITextBrainCapability.md)
 
+Optional text conversation capability.
+
 #### Defined in
 
-[src/services/brainClientService.ts:83](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/brainClientService.ts#L83)
+[src/services/brainClientService.ts:200](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/brainClientService.ts#L200)
 
 ___
 
@@ -37,9 +43,11 @@ ___
 
 • `Optional` **imageGeneration**: [`IImageGenerationBrainCapability`](services.IImageGenerationBrainCapability.md)
 
+Optional image generation capability.
+
 #### Defined in
 
-[src/services/brainClientService.ts:85](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/brainClientService.ts#L85)
+[src/services/brainClientService.ts:206](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/brainClientService.ts#L206)
 
 ___
 
@@ -47,6 +55,8 @@ ___
 
 • `Optional` **voiceTranscription**: [`IAudioTranscriptionBrainCapability`](services.IAudioTranscriptionBrainCapability.md)
 
+Optional audio transcription capability.
+
 #### Defined in
 
-[src/services/brainClientService.ts:84](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/brainClientService.ts#L84)
+[src/services/brainClientService.ts:203](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/brainClientService.ts#L203)

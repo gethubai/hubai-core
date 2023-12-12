@@ -64,7 +64,7 @@ Get the expandKeys in folderTree
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:52](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L52)
+[src/services/workbench/explorer/folderTreeService.ts:52](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L52)
 
 ___
 
@@ -84,7 +84,7 @@ Get the context menus for file
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L44)
+[src/services/workbench/explorer/folderTreeService.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L44)
 
 ___
 
@@ -104,7 +104,7 @@ Get the context menus for folder
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:48](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L48)
+[src/services/workbench/explorer/folderTreeService.ts:48](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L48)
 
 ___
 
@@ -124,7 +124,7 @@ Get the loadedKeys for folderTree
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:60](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L60)
+[src/services/workbench/explorer/folderTreeService.ts:60](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L60)
 
 ___
 
@@ -150,7 +150,7 @@ Set the expandKeys for folderTree
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:56](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L56)
+[src/services/workbench/explorer/folderTreeService.ts:56](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L56)
 
 ___
 
@@ -176,7 +176,7 @@ Set the context menus for file
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:80](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L80)
+[src/services/workbench/explorer/folderTreeService.ts:80](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L80)
 
 ___
 
@@ -202,7 +202,7 @@ Set the context menus for folder
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:85](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L85)
+[src/services/workbench/explorer/folderTreeService.ts:85](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L85)
 
 ___
 
@@ -228,7 +228,7 @@ Set the loadedKeys for folderTree
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:64](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L64)
+[src/services/workbench/explorer/folderTreeService.ts:64](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L64)
 
 ___
 
@@ -242,7 +242,7 @@ Component.state
 
 #### Defined in
 
-[src/react/component.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/react/component.ts#L44)
+[src/react/component.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/react/component.ts#L44)
 
 ## Methods
 
@@ -265,7 +265,7 @@ Add data into folder tree
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:20](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L20)
+[src/services/workbench/explorer/folderTreeService.ts:20](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L20)
 
 ___
 
@@ -287,7 +287,7 @@ Get specific data in folder tree
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L35)
+[src/services/workbench/explorer/folderTreeService.ts:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L35)
 
 ___
 
@@ -309,7 +309,7 @@ get the current treeNode's parentNode
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:40](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L40)
+[src/services/workbench/explorer/folderTreeService.ts:40](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L40)
 
 ___
 
@@ -331,7 +331,7 @@ Listen to the click event about the context menu except for built-in menus
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:132](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L132)
+[src/services/workbench/explorer/folderTreeService.ts:132](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L132)
 
 ___
 
@@ -353,7 +353,7 @@ Listen to create a node for folder tree
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:127](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L127)
+[src/services/workbench/explorer/folderTreeService.ts:127](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L127)
 
 ___
 
@@ -375,7 +375,7 @@ Listen to drop event
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:110](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L110)
+[src/services/workbench/explorer/folderTreeService.ts:110](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L110)
 
 ___
 
@@ -397,7 +397,7 @@ Callback for expanding tree node
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:152](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L152)
+[src/services/workbench/explorer/folderTreeService.ts:152](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L152)
 
 ___
 
@@ -419,7 +419,7 @@ Callback for load folder tree data
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:142](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L142)
+[src/services/workbench/explorer/folderTreeService.ts:142](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L142)
 
 ___
 
@@ -441,7 +441,7 @@ Listen to remove a node
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:95](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L95)
+[src/services/workbench/explorer/folderTreeService.ts:95](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L95)
 
 ___
 
@@ -463,7 +463,7 @@ Listen to event about clicking rename button
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:90](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L90)
+[src/services/workbench/explorer/folderTreeService.ts:90](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L90)
 
 ___
 
@@ -485,7 +485,7 @@ Listen to right click event
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:120](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L120)
+[src/services/workbench/explorer/folderTreeService.ts:120](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L120)
 
 ___
 
@@ -507,7 +507,7 @@ Listen to select a file
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:105](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L105)
+[src/services/workbench/explorer/folderTreeService.ts:105](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L105)
 
 ___
 
@@ -529,7 +529,7 @@ Listen to update file or folder name
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:100](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L100)
+[src/services/workbench/explorer/folderTreeService.ts:100](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L100)
 
 ___
 
@@ -551,7 +551,7 @@ Remove specific data in folder tree
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:25](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L25)
+[src/services/workbench/explorer/folderTreeService.ts:25](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L25)
 
 ___
 
@@ -567,7 +567,7 @@ Reset the FolderTreeService state
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:14](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L14)
+[src/services/workbench/explorer/folderTreeService.ts:14](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L14)
 
 ___
 
@@ -590,7 +590,7 @@ or unactive any node in folder tree
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:70](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L70)
+[src/services/workbench/explorer/folderTreeService.ts:70](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L70)
 
 ___
 
@@ -612,7 +612,7 @@ Set a entry page for folder tree
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:75](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L75)
+[src/services/workbench/explorer/folderTreeService.ts:75](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L75)
 
 ___
 
@@ -639,7 +639,7 @@ Component.subscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L11)
+[src/common/event/eventBus.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L11)
 
 ___
 
@@ -655,7 +655,7 @@ Toggle whether to enable sorting, which is disabled by default.
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:156](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L156)
+[src/services/workbench/explorer/folderTreeService.ts:156](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L156)
 
 ___
 
@@ -682,7 +682,7 @@ Component.unsubscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L39)
+[src/common/event/eventBus.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L39)
 
 ___
 
@@ -704,4 +704,4 @@ Update specific data in folder tree
 
 #### Defined in
 
-[src/services/workbench/explorer/folderTreeService.ts:30](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/folderTreeService.ts#L30)
+[src/services/workbench/explorer/folderTreeService.ts:30](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/folderTreeService.ts#L30)

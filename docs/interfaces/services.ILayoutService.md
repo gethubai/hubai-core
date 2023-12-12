@@ -46,7 +46,7 @@ Get the container of the molecule
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:12](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L12)
+[src/services/workbench/layoutService.ts:12](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L12)
 
 ___
 
@@ -60,7 +60,7 @@ Component.state
 
 #### Defined in
 
-[src/react/component.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/react/component.ts#L44)
+[src/react/component.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/react/component.ts#L44)
 
 ## Methods
 
@@ -76,7 +76,7 @@ Get the mode of the MenuBar
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:67](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L67)
+[src/services/workbench/layoutService.ts:67](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L67)
 
 ___
 
@@ -98,7 +98,7 @@ Listen to the workbench did mount event
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:88](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L88)
+[src/services/workbench/layoutService.ts:88](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L88)
 
 ___
 
@@ -114,7 +114,7 @@ Reset all layout data as default value
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:83](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L83)
+[src/services/workbench/layoutService.ts:83](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L83)
 
 ___
 
@@ -138,7 +138,7 @@ Returns the next state of hidden
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:79](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L79)
+[src/services/workbench/layoutService.ts:79](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L79)
 
 ___
 
@@ -160,7 +160,7 @@ Set the direction of editor group,default is `vertical`
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:71](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L71)
+[src/services/workbench/layoutService.ts:71](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L71)
 
 ___
 
@@ -182,7 +182,7 @@ Set the sizes between editor groups
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:57](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L57)
+[src/services/workbench/layoutService.ts:57](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L57)
 
 ___
 
@@ -204,7 +204,7 @@ Set the sizes between the editor and the panel
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:46](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L46)
+[src/services/workbench/layoutService.ts:46](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L46)
 
 ___
 
@@ -228,7 +228,7 @@ Set the mode of the MenuBar, default is `vertical`
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:63](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L63)
+[src/services/workbench/layoutService.ts:63](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L63)
 
 ___
 
@@ -250,7 +250,7 @@ Set the sizes between the side bar and main content area
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:41](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L41)
+[src/services/workbench/layoutService.ts:41](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L41)
 
 ___
 
@@ -274,7 +274,7 @@ Set the position of the side bar, default is in `left`
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:52](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L52)
+[src/services/workbench/layoutService.ts:52](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L52)
 
 ___
 
@@ -301,7 +301,7 @@ Component.subscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L11)
+[src/common/event/eventBus.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L11)
 
 ___
 
@@ -317,7 +317,7 @@ Toggle the visibility of the activity bar, returns the status of activity bar's 
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:28](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L28)
+[src/services/workbench/layoutService.ts:28](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L28)
 
 ___
 
@@ -333,7 +333,7 @@ Toggle the visibility of menu bar, returns the status of menu bar's `hidden`
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:16](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L16)
+[src/services/workbench/layoutService.ts:16](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L16)
 
 ___
 
@@ -349,7 +349,7 @@ Toggle the maximized status of the panel, returns the status of maximized panel
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:36](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L36)
+[src/services/workbench/layoutService.ts:36](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L36)
 
 ___
 
@@ -365,7 +365,7 @@ Toggle the visibility of the panel, returns the status of panel's `hidden`
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:24](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L24)
+[src/services/workbench/layoutService.ts:24](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L24)
 
 ___
 
@@ -381,7 +381,7 @@ Toggle the visibility of side bar, returns the status of side bar's `hidden`
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:20](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L20)
+[src/services/workbench/layoutService.ts:20](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L20)
 
 ___
 
@@ -397,7 +397,7 @@ Toggle the visibility of the status bar, returns the status of status bar's `hid
 
 #### Defined in
 
-[src/services/workbench/layoutService.ts:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/layoutService.ts#L32)
+[src/services/workbench/layoutService.ts:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/layoutService.ts#L32)
 
 ___
 
@@ -424,4 +424,4 @@ Component.unsubscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L39)
+[src/common/event/eventBus.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L39)

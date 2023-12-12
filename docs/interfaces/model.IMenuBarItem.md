@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[src/model/workbench/menuBar.ts:21](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/menuBar.ts#L21)
+[src/model/workbench/menuBar.ts:21](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/menuBar.ts#L21)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/menuBar.ts:23](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/menuBar.ts#L23)
+[src/model/workbench/menuBar.ts:23](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/menuBar.ts#L23)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/menuBar.ts:20](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/menuBar.ts#L20)
+[src/model/workbench/menuBar.ts:20](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/menuBar.ts#L20)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/menuBar.ts:18](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/menuBar.ts#L18)
+[src/model/workbench/menuBar.ts:18](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/menuBar.ts#L18)
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/menuBar.ts:19](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/menuBar.ts#L19)
+[src/model/workbench/menuBar.ts:19](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/menuBar.ts#L19)
 
 ___
 
@@ -85,4 +85,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/menuBar.ts:22](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/menuBar.ts#L22)
+[src/model/workbench/menuBar.ts:22](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/menuBar.ts#L22)

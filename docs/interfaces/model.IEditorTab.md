@@ -46,7 +46,7 @@ ITabProps.active
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L35)
+[src/components/tabs/tab.tsx:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L35)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/editor.ts:43](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L43)
+[src/model/workbench/editor.ts:43](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L43)
 
 ___
 
@@ -73,7 +73,7 @@ ITabProps.closable
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:40](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L40)
+[src/components/tabs/tab.tsx:40](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L40)
 
 ___
 
@@ -87,7 +87,7 @@ ITabProps.data
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:52](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L52)
+[src/components/tabs/tab.tsx:52](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L52)
 
 ___
 
@@ -99,7 +99,7 @@ The instances that need to be disposed when the tab is closed
 
 #### Defined in
 
-[src/model/workbench/editor.ts:47](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L47)
+[src/model/workbench/editor.ts:47](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L47)
 
 ___
 
@@ -115,7 +115,7 @@ ITabProps.editable
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L44)
+[src/components/tabs/tab.tsx:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L44)
 
 ___
 
@@ -129,7 +129,7 @@ ITabProps.icon
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:46](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L46)
+[src/components/tabs/tab.tsx:46](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L46)
 
 ___
 
@@ -143,7 +143,7 @@ ITabProps.id
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:47](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L47)
+[src/components/tabs/tab.tsx:47](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L47)
 
 ___
 
@@ -157,7 +157,7 @@ ITabProps.name
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:48](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L48)
+[src/components/tabs/tab.tsx:48](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L48)
 
 ___
 
@@ -171,7 +171,7 @@ ITabProps.renderPane
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:49](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L49)
+[src/components/tabs/tab.tsx:49](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L49)
 
 ___
 
@@ -185,4 +185,4 @@ ITabProps.status
 
 #### Defined in
 
-[src/components/tabs/tab.tsx:45](https://github.com/mtsdnz/allai-core/blob/5932278/src/components/tabs/tab.tsx#L45)
+[src/components/tabs/tab.tsx:45](https://github.com/gethubai/hubai-core/blob/43abc4a/src/components/tabs/tab.tsx#L45)

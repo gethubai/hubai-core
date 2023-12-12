@@ -2,6 +2,8 @@
 
 [services](../modules/services.md).IBrainClientManager
 
+Interface for managing brain clients.
+
 ## Table of contents
 
 ### Methods
@@ -17,13 +19,17 @@
 
 ▸ **getAvailableBrains**(): [`LocalBrain`](../modules/services.md#localbrain)[]
 
+Retrieves all available local brains.
+
 #### Returns
 
 [`LocalBrain`](../modules/services.md#localbrain)[]
 
+An array of LocalBrain objects.
+
 #### Defined in
 
-[src/services/brainClientService.ts:91](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/brainClientService.ts#L91)
+[src/services/brainClientService.ts:230](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/brainClientService.ts#L230)
 
 ___
 
@@ -31,13 +37,17 @@ ___
 
 ▸ **getAvailableClients**(): [`IBrainClient`](services.IBrainClient.md)[]
 
+Retrieves all available brain clients.
+
 #### Returns
 
 [`IBrainClient`](services.IBrainClient.md)[]
 
+An array of IBrainClient objects.
+
 #### Defined in
 
-[src/services/brainClientService.ts:90](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/brainClientService.ts#L90)
+[src/services/brainClientService.ts:224](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/brainClientService.ts#L224)
 
 ___
 
@@ -45,19 +55,23 @@ ___
 
 ▸ **getClient**(`brainId`): `undefined` \| [`IBrainClient`](services.IBrainClient.md)
 
+Retrieves a specific brain client by ID.
+
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `brainId` | `string` |
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `brainId` | `string` | The ID of the brain to retrieve. |
 
 #### Returns
 
 `undefined` \| [`IBrainClient`](services.IBrainClient.md)
 
+The IBrainClient if found, otherwise undefined.
+
 #### Defined in
 
-[src/services/brainClientService.ts:89](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/brainClientService.ts#L89)
+[src/services/brainClientService.ts:218](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/brainClientService.ts#L218)
 
 ___
 
@@ -65,16 +79,20 @@ ___
 
 ▸ **getDefaultForCapability**(`capability`): `undefined` \| [`IBrainClient`](services.IBrainClient.md)
 
+Retrieves the default client for a given capability.
+
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `capability` | `string` |
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `capability` | `string` | The capability to search for. |
 
 #### Returns
 
 `undefined` \| [`IBrainClient`](services.IBrainClient.md)
 
+The default IBrainClient for the given capability, if one exists.
+
 #### Defined in
 
-[src/services/brainClientService.ts:92](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/brainClientService.ts#L92)
+[src/services/brainClientService.ts:237](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/brainClientService.ts#L237)

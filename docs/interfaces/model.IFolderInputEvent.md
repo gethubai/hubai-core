@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:29](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L29)
+[src/model/workbench/explorer/folderTree.tsx:29](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L29)
 
 ___
 
@@ -49,4 +49,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:30](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L30)
+[src/model/workbench/explorer/folderTree.tsx:30](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L30)

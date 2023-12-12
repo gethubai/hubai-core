@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/model/workbench/explorer/explorer.tsx:6](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/explorer.tsx#L6)
+[src/model/workbench/explorer/explorer.tsx:6](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/explorer.tsx#L6)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/explorer.tsx:10](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/explorer.tsx#L10)
+[src/model/workbench/explorer/explorer.tsx:10](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/explorer.tsx#L10)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/explorer.tsx:8](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/explorer.tsx#L8)
+[src/model/workbench/explorer/explorer.tsx:8](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/explorer.tsx#L8)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/explorer.tsx:7](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/explorer.tsx#L7)
+[src/model/workbench/explorer/explorer.tsx:7](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/explorer.tsx#L7)
 
 ___
 
@@ -60,4 +60,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/explorer.tsx:9](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/explorer.tsx#L9)
+[src/model/workbench/explorer/explorer.tsx:9](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/explorer.tsx#L9)

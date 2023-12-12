@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[src/model/appContext.ts:19](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/appContext.ts#L19)
+[src/model/appContext.ts:22](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L22)
 
 ## Properties
 
@@ -40,4 +40,4 @@
 
 #### Defined in
 
-[src/model/appContext.ts:17](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/appContext.ts#L17)
+[src/model/appContext.ts:20](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/appContext.ts#L20)

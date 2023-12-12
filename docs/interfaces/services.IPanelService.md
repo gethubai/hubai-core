@@ -45,7 +45,7 @@ The editorInstance of Output
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:12](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L12)
+[src/services/workbench/panelService.ts:12](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L12)
 
 ___
 
@@ -59,7 +59,7 @@ Component.state
 
 #### Defined in
 
-[src/react/component.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/react/component.ts#L44)
+[src/react/component.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/react/component.ts#L44)
 
 ## Methods
 
@@ -81,7 +81,7 @@ Add new Panel items
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L35)
+[src/services/workbench/panelService.ts:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L35)
 
 ___
 
@@ -103,7 +103,7 @@ Append the content into Output panel
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:82](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L82)
+[src/services/workbench/panelService.ts:82](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L82)
 
 ___
 
@@ -119,7 +119,7 @@ Clean the Output content
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:86](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L86)
+[src/services/workbench/panelService.ts:86](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L86)
 
 ___
 
@@ -135,7 +135,7 @@ Get the value of Output Panel
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:77](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L77)
+[src/services/workbench/panelService.ts:77](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L77)
 
 ___
 
@@ -157,7 +157,7 @@ Get the specific panel
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:30](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L30)
+[src/services/workbench/panelService.ts:30](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L30)
 
 ___
 
@@ -179,7 +179,7 @@ Listen to the Panel tabs onChange event
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:61](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L61)
+[src/services/workbench/panelService.ts:61](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L61)
 
 ___
 
@@ -201,7 +201,7 @@ Listen to the Panel tabs close event
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:73](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L73)
+[src/services/workbench/panelService.ts:73](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L73)
 
 ___
 
@@ -223,7 +223,7 @@ Listen to the Panel toolbar click event
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:66](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L66)
+[src/services/workbench/panelService.ts:66](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L66)
 
 ___
 
@@ -245,7 +245,7 @@ Open a new or existing panel item as the active in Panel view
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:25](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L25)
+[src/services/workbench/panelService.ts:25](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L25)
 
 ___
 
@@ -267,7 +267,7 @@ Remove the specific panel
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:52](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L52)
+[src/services/workbench/panelService.ts:52](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L52)
 
 ___
 
@@ -283,7 +283,7 @@ Reset data in state
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:90](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L90)
+[src/services/workbench/panelService.ts:90](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L90)
 
 ___
 
@@ -308,7 +308,7 @@ So if you want to add a panel and meanwhile active it, please use the `open` met
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:20](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L20)
+[src/services/workbench/panelService.ts:20](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L20)
 
 ___
 
@@ -335,7 +335,7 @@ Component.subscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L11)
+[src/common/event/eventBus.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L11)
 
 ___
 
@@ -351,7 +351,7 @@ Toggle the panel between maximized or normal
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:56](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L56)
+[src/services/workbench/panelService.ts:56](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L56)
 
 ___
 
@@ -378,7 +378,7 @@ Component.unsubscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L39)
+[src/common/event/eventBus.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L39)
 
 ___
 
@@ -400,7 +400,7 @@ Update the specific panel
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:40](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L40)
+[src/services/workbench/panelService.ts:40](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L40)
 
 ___
 
@@ -424,4 +424,4 @@ If you want to update the value of this panel, please use the `appendOutput` met
 
 #### Defined in
 
-[src/services/workbench/panelService.ts:47](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/panelService.ts#L47)
+[src/services/workbench/panelService.ts:47](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/panelService.ts#L47)

@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[src/model/workbench/statusBar.tsx:6](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/statusBar.tsx#L6)
+[src/model/workbench/statusBar.tsx:6](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/statusBar.tsx#L6)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/statusBar.tsx:7](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/statusBar.tsx#L7)
+[src/model/workbench/statusBar.tsx:7](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/statusBar.tsx#L7)

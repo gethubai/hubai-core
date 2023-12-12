@@ -63,7 +63,7 @@ The instance of MonacoEditor
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:191](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L191)
+[src/services/workbench/editorService.ts:191](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L191)
 
 ___
 
@@ -77,7 +77,7 @@ Component.state
 
 #### Defined in
 
-[src/react/component.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/react/component.ts#L44)
+[src/react/component.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/react/component.ts#L44)
 
 ## Methods
 
@@ -100,7 +100,7 @@ there default clone the current group
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:87](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L87)
+[src/services/workbench/editorService.ts:87](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L87)
 
 ___
 
@@ -122,7 +122,7 @@ Close the specific group all opened tabs
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:76](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L76)
+[src/services/workbench/editorService.ts:76](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L76)
 
 ___
 
@@ -145,7 +145,7 @@ Close other opened tabs in Editor Group
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:59](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L59)
+[src/services/workbench/editorService.ts:59](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L59)
 
 ___
 
@@ -168,7 +168,7 @@ Close the specific Tab opened in Editor Group view
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:53](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L53)
+[src/services/workbench/editorService.ts:53](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L53)
 
 ___
 
@@ -191,7 +191,7 @@ Close the left opened Tabs in Editor Group
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:71](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L71)
+[src/services/workbench/editorService.ts:71](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L71)
 
 ___
 
@@ -214,7 +214,7 @@ Close the right opened tabs in Editor Group
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:65](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L65)
+[src/services/workbench/editorService.ts:65](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L65)
 
 ___
 
@@ -230,7 +230,7 @@ Get the default group actions
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:178](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L178)
+[src/services/workbench/editorService.ts:178](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L178)
 
 ___
 
@@ -246,7 +246,7 @@ Get the default group menus
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:182](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L182)
+[src/services/workbench/editorService.ts:182](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L182)
 
 ___
 
@@ -268,7 +268,7 @@ Get the specific group
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:81](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L81)
+[src/services/workbench/editorService.ts:81](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L81)
 
 ___
 
@@ -290,7 +290,7 @@ Get the group's id which contains the tab
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:196](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L196)
+[src/services/workbench/editorService.ts:196](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L196)
 
 ___
 
@@ -319,7 +319,7 @@ Get a tab from a specific group via the tab ID
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:26](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L26)
+[src/services/workbench/editorService.ts:26](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L26)
 
 ___
 
@@ -341,7 +341,7 @@ Judge the specific tabs whether opened in Editor view
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:47](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L47)
+[src/services/workbench/editorService.ts:47](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L47)
 
 ___
 
@@ -363,7 +363,7 @@ Listen to the Group Actions click event
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:139](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L139)
+[src/services/workbench/editorService.ts:139](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L139)
 
 ___
 
@@ -385,7 +385,7 @@ Listen to the all tabs close event
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:114](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L114)
+[src/services/workbench/editorService.ts:114](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L114)
 
 ___
 
@@ -407,7 +407,7 @@ Listen to the other tabs close event
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:124](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L124)
+[src/services/workbench/editorService.ts:124](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L124)
 
 ___
 
@@ -429,7 +429,7 @@ Listen to the tab close event
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:119](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L119)
+[src/services/workbench/editorService.ts:119](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L119)
 
 ___
 
@@ -451,7 +451,7 @@ Listen to the left tabs close event
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:129](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L129)
+[src/services/workbench/editorService.ts:129](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L129)
 
 ___
 
@@ -473,7 +473,7 @@ Listen to the right tabs close event
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:134](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L134)
+[src/services/workbench/editorService.ts:134](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L134)
 
 ___
 
@@ -495,7 +495,7 @@ Listen to the tab move event
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:102](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L102)
+[src/services/workbench/editorService.ts:102](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L102)
 
 ___
 
@@ -517,7 +517,7 @@ Listen to the tab opening event
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:97](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L97)
+[src/services/workbench/editorService.ts:97](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L97)
 
 ___
 
@@ -539,7 +539,7 @@ Listen to the tab select event
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:109](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L109)
+[src/services/workbench/editorService.ts:109](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L109)
 
 ___
 
@@ -561,7 +561,7 @@ Listen to the Editor tab changed event
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:92](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L92)
+[src/services/workbench/editorService.ts:92](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L92)
 
 ___
 
@@ -590,7 +590,7 @@ Open a new tab in a specific group
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:20](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L20)
+[src/services/workbench/editorService.ts:20](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L20)
 
 ___
 
@@ -613,7 +613,7 @@ Set active group and tab
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:147](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L147)
+[src/services/workbench/editorService.ts:147](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L147)
 
 ___
 
@@ -635,7 +635,7 @@ Set default actions when create a new group
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:158](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L158)
+[src/services/workbench/editorService.ts:158](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L158)
 
 ___
 
@@ -657,7 +657,7 @@ Set default menus when create a new group
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:163](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L163)
+[src/services/workbench/editorService.ts:163](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L163)
 
 ___
 
@@ -679,7 +679,7 @@ Specify the Entry page of Workbench
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:42](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L42)
+[src/services/workbench/editorService.ts:42](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L42)
 
 ___
 
@@ -702,7 +702,7 @@ Updates the editor content for a specific group
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:38](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L38)
+[src/services/workbench/editorService.ts:38](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L38)
 
 ___
 
@@ -729,7 +729,7 @@ Component.subscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L11)
+[src/common/event/eventBus.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L11)
 
 ___
 
@@ -756,7 +756,7 @@ Component.unsubscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L39)
+[src/common/event/eventBus.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L39)
 
 ___
 
@@ -779,7 +779,7 @@ Update actions in specific group
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:169](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L169)
+[src/services/workbench/editorService.ts:169](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L169)
 
 ___
 
@@ -801,7 +801,7 @@ Update the current group
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:174](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L174)
+[src/services/workbench/editorService.ts:174](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L174)
 
 ___
 
@@ -823,7 +823,7 @@ Update the editor options
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:187](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L187)
+[src/services/workbench/editorService.ts:187](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L187)
 
 ___
 
@@ -846,7 +846,7 @@ Update the specific group
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:153](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L153)
+[src/services/workbench/editorService.ts:153](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L153)
 
 ___
 
@@ -869,4 +869,4 @@ Update the specific tab, if the groupId provide, then update the tab of specific
 
 #### Defined in
 
-[src/services/workbench/editorService.ts:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/editorService.ts#L32)
+[src/services/workbench/editorService.ts:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/editorService.ts#L32)

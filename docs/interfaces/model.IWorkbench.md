@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/model/workbench/index.ts:16](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/index.ts#L16)
+[src/model/workbench/index.ts:16](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/index.ts#L16)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/index.ts:17](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/index.ts#L17)
+[src/model/workbench/index.ts:17](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/index.ts#L17)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/index.ts:15](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/index.ts#L15)
+[src/model/workbench/index.ts:15](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/index.ts#L15)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/index.ts:19](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/index.ts#L19)
+[src/model/workbench/index.ts:19](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/index.ts#L19)
 
 ___
 
@@ -60,4 +60,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/index.ts:18](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/index.ts#L18)
+[src/model/workbench/index.ts:18](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/index.ts#L18)

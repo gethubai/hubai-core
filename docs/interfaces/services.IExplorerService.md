@@ -46,7 +46,7 @@ Component.state
 
 #### Defined in
 
-[src/react/component.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/react/component.ts#L44)
+[src/react/component.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/react/component.ts#L44)
 
 ## Methods
 
@@ -68,7 +68,7 @@ Only add an action in toolbar actions
 
 #### Defined in
 
-[src/services/workbench/explorer/explorerService.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/explorerService.ts#L39)
+[src/services/workbench/explorer/explorerService.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/explorerService.ts#L39)
 
 ___
 
@@ -90,7 +90,7 @@ Add a new panel, as well as add a new data for toolbar data
 
 #### Defined in
 
-[src/services/workbench/explorer/explorerService.ts:14](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/explorerService.ts#L14)
+[src/services/workbench/explorer/explorerService.ts:14](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/explorerService.ts#L14)
 
 ___
 
@@ -112,7 +112,7 @@ Get the specific action in toolbar actions
 
 #### Defined in
 
-[src/services/workbench/explorer/explorerService.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/explorerService.ts#L44)
+[src/services/workbench/explorer/explorerService.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/explorerService.ts#L44)
 
 ___
 
@@ -134,7 +134,7 @@ Listen to the Explorer header toolbar click event
 
 #### Defined in
 
-[src/services/workbench/explorer/explorerService.ts:63](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/explorerService.ts#L63)
+[src/services/workbench/explorer/explorerService.ts:63](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/explorerService.ts#L63)
 
 ___
 
@@ -156,7 +156,7 @@ Listen to the FolderTree Panel collapse all folders event
 
 #### Defined in
 
-[src/services/workbench/explorer/explorerService.ts:73](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/explorerService.ts#L73)
+[src/services/workbench/explorer/explorerService.ts:73](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/explorerService.ts#L73)
 
 ___
 
@@ -178,7 +178,7 @@ Listen to the Explorer panel toolbar click event
 
 #### Defined in
 
-[src/services/workbench/explorer/explorerService.ts:78](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/explorerService.ts#L78)
+[src/services/workbench/explorer/explorerService.ts:78](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/explorerService.ts#L78)
 
 ___
 
@@ -200,7 +200,7 @@ Listen to the Explorer panel remove event
 
 #### Defined in
 
-[src/services/workbench/explorer/explorerService.ts:68](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/explorerService.ts#L68)
+[src/services/workbench/explorer/explorerService.ts:68](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/explorerService.ts#L68)
 
 ___
 
@@ -222,7 +222,7 @@ Remove the specific header toolbar action
 
 #### Defined in
 
-[src/services/workbench/explorer/explorerService.ts:54](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/explorerService.ts#L54)
+[src/services/workbench/explorer/explorerService.ts:54](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/explorerService.ts#L54)
 
 ___
 
@@ -244,7 +244,7 @@ Remove a panel via id, as well as remove the corresponding action bar
 
 #### Defined in
 
-[src/services/workbench/explorer/explorerService.ts:27](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/explorerService.ts#L27)
+[src/services/workbench/explorer/explorerService.ts:27](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/explorerService.ts#L27)
 
 ___
 
@@ -260,7 +260,7 @@ Reset the ExplorerService state, it's mainly for customizing the Explorer
 
 #### Defined in
 
-[src/services/workbench/explorer/explorerService.ts:58](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/explorerService.ts#L58)
+[src/services/workbench/explorer/explorerService.ts:58](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/explorerService.ts#L58)
 
 ___
 
@@ -282,7 +282,7 @@ Set expanded Panels of Explore
 
 #### Defined in
 
-[src/services/workbench/explorer/explorerService.ts:23](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/explorerService.ts#L23)
+[src/services/workbench/explorer/explorerService.ts:23](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/explorerService.ts#L23)
 
 ___
 
@@ -309,7 +309,7 @@ Component.subscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L11)
+[src/common/event/eventBus.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L11)
 
 ___
 
@@ -331,7 +331,7 @@ Only toggle the toolbar status
 
 #### Defined in
 
-[src/services/workbench/explorer/explorerService.ts:35](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/explorerService.ts#L35)
+[src/services/workbench/explorer/explorerService.ts:35](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/explorerService.ts#L35)
 
 ___
 
@@ -353,7 +353,7 @@ Toggle panel hidden, as well as toggle the toolbar status
 
 #### Defined in
 
-[src/services/workbench/explorer/explorerService.ts:31](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/explorerService.ts#L31)
+[src/services/workbench/explorer/explorerService.ts:31](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/explorerService.ts#L31)
 
 ___
 
@@ -380,7 +380,7 @@ Component.unsubscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L39)
+[src/common/event/eventBus.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L39)
 
 ___
 
@@ -402,7 +402,7 @@ Update the action in toolbar actions
 
 #### Defined in
 
-[src/services/workbench/explorer/explorerService.ts:49](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/explorerService.ts#L49)
+[src/services/workbench/explorer/explorerService.ts:49](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/explorerService.ts#L49)
 
 ___
 
@@ -424,4 +424,4 @@ Update the panels data, as well as modify toolbar data
 
 #### Defined in
 
-[src/services/workbench/explorer/explorerService.ts:18](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/explorer/explorerService.ts#L18)
+[src/services/workbench/explorer/explorerService.ts:18](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/explorer/explorerService.ts#L18)

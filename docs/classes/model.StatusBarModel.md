@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[src/model/workbench/statusBar.tsx:46](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/statusBar.tsx#L46)
+[src/model/workbench/statusBar.tsx:46](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/statusBar.tsx#L46)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[src/model/workbench/statusBar.tsx:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/statusBar.tsx#L44)
+[src/model/workbench/statusBar.tsx:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/statusBar.tsx#L44)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/statusBar.tsx:40](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/statusBar.tsx#L40)
+[src/model/workbench/statusBar.tsx:40](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/statusBar.tsx#L40)
 
 ___
 
@@ -80,4 +80,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/statusBar.tsx:42](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/statusBar.tsx#L42)
+[src/model/workbench/statusBar.tsx:42](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/statusBar.tsx#L42)

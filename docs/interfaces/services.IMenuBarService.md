@@ -38,7 +38,7 @@ Component.state
 
 #### Defined in
 
-[src/react/component.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/react/component.ts#L44)
+[src/react/component.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/react/component.ts#L44)
 
 ## Methods
 
@@ -61,7 +61,7 @@ Append a new menu into the specific menu found by `parentId`
 
 #### Defined in
 
-[src/services/workbench/menuBarService.ts:16](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/menuBarService.ts#L16)
+[src/services/workbench/menuBarService.ts:16](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/menuBarService.ts#L16)
 
 ___
 
@@ -83,7 +83,7 @@ Get the specific menu item
 
 #### Defined in
 
-[src/services/workbench/menuBarService.ts:26](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/menuBarService.ts#L26)
+[src/services/workbench/menuBarService.ts:26](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/menuBarService.ts#L26)
 
 ___
 
@@ -105,7 +105,7 @@ listen to the onSelect event in menu
 
 #### Defined in
 
-[src/services/workbench/menuBarService.ts:41](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/menuBarService.ts#L41)
+[src/services/workbench/menuBarService.ts:41](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/menuBarService.ts#L41)
 
 ___
 
@@ -127,7 +127,7 @@ Remove the specific menu item
 
 #### Defined in
 
-[src/services/workbench/menuBarService.ts:21](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/menuBarService.ts#L21)
+[src/services/workbench/menuBarService.ts:21](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/menuBarService.ts#L21)
 
 ___
 
@@ -143,7 +143,7 @@ Reset menu bar data;
 
 #### Defined in
 
-[src/services/workbench/menuBarService.ts:36](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/menuBarService.ts#L36)
+[src/services/workbench/menuBarService.ts:36](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/menuBarService.ts#L36)
 
 ___
 
@@ -165,7 +165,7 @@ Set the menus data
 
 #### Defined in
 
-[src/services/workbench/menuBarService.ts:10](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/menuBarService.ts#L10)
+[src/services/workbench/menuBarService.ts:10](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/menuBarService.ts#L10)
 
 ___
 
@@ -192,7 +192,7 @@ Component.subscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L11)
+[src/common/event/eventBus.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L11)
 
 ___
 
@@ -219,7 +219,7 @@ Component.unsubscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L39)
+[src/common/event/eventBus.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L39)
 
 ___
 
@@ -242,4 +242,4 @@ Update the specific menu item data
 
 #### Defined in
 
-[src/services/workbench/menuBarService.ts:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/menuBarService.ts#L32)
+[src/services/workbench/menuBarService.ts:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/menuBarService.ts#L32)

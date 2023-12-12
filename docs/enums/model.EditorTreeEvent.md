@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/model/workbench/explorer/editorTree.ts:2](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/editorTree.ts#L2)
+[src/model/workbench/explorer/editorTree.ts:2](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/editorTree.ts#L2)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/editorTree.ts:6](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/editorTree.ts#L6)
+[src/model/workbench/explorer/editorTree.ts:6](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/editorTree.ts#L6)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/editorTree.ts:4](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/editorTree.ts#L4)
+[src/model/workbench/explorer/editorTree.ts:4](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/editorTree.ts#L4)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/editorTree.ts:5](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/editorTree.ts#L5)
+[src/model/workbench/explorer/editorTree.ts:5](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/editorTree.ts#L5)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/editorTree.ts:10](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/editorTree.ts#L10)
+[src/model/workbench/explorer/editorTree.ts:10](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/editorTree.ts#L10)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/editorTree.ts:7](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/editorTree.ts#L7)
+[src/model/workbench/explorer/editorTree.ts:7](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/editorTree.ts#L7)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/editorTree.ts:3](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/editorTree.ts#L3)
+[src/model/workbench/explorer/editorTree.ts:3](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/editorTree.ts#L3)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/editorTree.ts:8](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/editorTree.ts#L8)
+[src/model/workbench/explorer/editorTree.ts:8](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/editorTree.ts#L8)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/editorTree.ts:9](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/editorTree.ts#L9)
+[src/model/workbench/explorer/editorTree.ts:9](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/editorTree.ts#L9)

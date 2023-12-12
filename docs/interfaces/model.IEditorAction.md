@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[src/model/workbench/editor.ts:50](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L50)
+[src/model/workbench/editor.ts:50](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L50)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[src/model/workbench/editor.ts:51](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/editor.ts#L51)
+[src/model/workbench/editor.ts:51](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/editor.ts#L51)

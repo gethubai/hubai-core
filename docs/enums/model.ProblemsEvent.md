@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[src/model/problems.tsx:12](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/problems.tsx#L12)
+[src/model/problems.tsx:12](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/problems.tsx#L12)

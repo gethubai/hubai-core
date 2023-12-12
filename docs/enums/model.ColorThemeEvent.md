@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[src/model/colorTheme.ts:25](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/colorTheme.ts#L25)
+[src/model/colorTheme.ts:25](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/colorTheme.ts#L25)

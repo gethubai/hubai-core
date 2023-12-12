@@ -37,7 +37,7 @@ Component.state
 
 #### Defined in
 
-[src/react/component.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/react/component.ts#L44)
+[src/react/component.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/react/component.ts#L44)
 
 ## Methods
 
@@ -60,7 +60,7 @@ Add a new Sidebar pane
 
 #### Defined in
 
-[src/services/workbench/sidebarService.ts:17](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/sidebarService.ts#L17)
+[src/services/workbench/sidebarService.ts:17](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/sidebarService.ts#L17)
 
 ___
 
@@ -82,7 +82,7 @@ Get a specific pane via id
 
 #### Defined in
 
-[src/services/workbench/sidebarService.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/sidebarService.ts#L11)
+[src/services/workbench/sidebarService.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/sidebarService.ts#L11)
 
 ___
 
@@ -104,7 +104,7 @@ Remove a pane
 
 #### Defined in
 
-[src/services/workbench/sidebarService.ts:27](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/sidebarService.ts#L27)
+[src/services/workbench/sidebarService.ts:27](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/sidebarService.ts#L27)
 
 ___
 
@@ -120,7 +120,7 @@ Reset the sidebar data
 
 #### Defined in
 
-[src/services/workbench/sidebarService.ts:36](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/sidebarService.ts#L36)
+[src/services/workbench/sidebarService.ts:36](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/sidebarService.ts#L36)
 
 ___
 
@@ -142,7 +142,7 @@ Set the specific pane as active
 
 #### Defined in
 
-[src/services/workbench/sidebarService.ts:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/sidebarService.ts#L32)
+[src/services/workbench/sidebarService.ts:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/sidebarService.ts#L32)
 
 ___
 
@@ -169,7 +169,7 @@ Component.subscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L11)
+[src/common/event/eventBus.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L11)
 
 ___
 
@@ -196,7 +196,7 @@ Component.unsubscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L39)
+[src/common/event/eventBus.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L39)
 
 ___
 
@@ -218,4 +218,4 @@ Update a specific pane
 
 #### Defined in
 
-[src/services/workbench/sidebarService.ts:22](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/sidebarService.ts#L22)
+[src/services/workbench/sidebarService.ts:22](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/sidebarService.ts#L22)

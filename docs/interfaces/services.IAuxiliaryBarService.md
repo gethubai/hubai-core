@@ -50,7 +50,7 @@ Called when auxiliary tab title clicked
 
 #### Defined in
 
-[src/services/workbench/auxiliaryBarService.ts:36](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/auxiliaryBarService.ts#L36)
+[src/services/workbench/auxiliaryBarService.ts:36](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/auxiliaryBarService.ts#L36)
 
 ___
 
@@ -70,7 +70,7 @@ Reset all states
 
 #### Defined in
 
-[src/services/workbench/auxiliaryBarService.ts:40](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/auxiliaryBarService.ts#L40)
+[src/services/workbench/auxiliaryBarService.ts:40](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/auxiliaryBarService.ts#L40)
 
 ___
 
@@ -96,7 +96,7 @@ Set the children of auxiliary bar
 
 #### Defined in
 
-[src/services/workbench/auxiliaryBarService.ts:32](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/auxiliaryBarService.ts#L32)
+[src/services/workbench/auxiliaryBarService.ts:32](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/auxiliaryBarService.ts#L32)
 
 ___
 
@@ -122,7 +122,7 @@ Set the mode of auxiliary bar
 
 #### Defined in
 
-[src/services/workbench/auxiliaryBarService.ts:24](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/auxiliaryBarService.ts#L24)
+[src/services/workbench/auxiliaryBarService.ts:24](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/auxiliaryBarService.ts#L24)
 
 ___
 
@@ -136,7 +136,7 @@ Component.state
 
 #### Defined in
 
-[src/react/component.ts:44](https://github.com/mtsdnz/allai-core/blob/5932278/src/react/component.ts#L44)
+[src/react/component.ts:44](https://github.com/gethubai/hubai-core/blob/43abc4a/src/react/component.ts#L44)
 
 ## Methods
 
@@ -156,7 +156,7 @@ Component.state
 
 #### Defined in
 
-[src/services/workbench/auxiliaryBarService.ts:16](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/auxiliaryBarService.ts#L16)
+[src/services/workbench/auxiliaryBarService.ts:16](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/auxiliaryBarService.ts#L16)
 
 ___
 
@@ -172,7 +172,7 @@ Get the current tab
 
 #### Defined in
 
-[src/services/workbench/auxiliaryBarService.ts:15](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/auxiliaryBarService.ts#L15)
+[src/services/workbench/auxiliaryBarService.ts:15](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/auxiliaryBarService.ts#L15)
 
 ___
 
@@ -194,7 +194,7 @@ Set the active one on data
 
 #### Defined in
 
-[src/services/workbench/auxiliaryBarService.ts:20](https://github.com/mtsdnz/allai-core/blob/5932278/src/services/workbench/auxiliaryBarService.ts#L20)
+[src/services/workbench/auxiliaryBarService.ts:20](https://github.com/gethubai/hubai-core/blob/43abc4a/src/services/workbench/auxiliaryBarService.ts#L20)
 
 ___
 
@@ -221,7 +221,7 @@ Component.subscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:11](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L11)
+[src/common/event/eventBus.ts:11](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L11)
 
 ___
 
@@ -248,4 +248,4 @@ Component.unsubscribe
 
 #### Defined in
 
-[src/common/event/eventBus.ts:39](https://github.com/mtsdnz/allai-core/blob/5932278/src/common/event/eventBus.ts#L39)
+[src/common/event/eventBus.ts:39](https://github.com/gethubai/hubai-core/blob/43abc4a/src/common/event/eventBus.ts#L39)

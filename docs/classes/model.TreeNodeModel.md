@@ -43,7 +43,7 @@
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:75](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L75)
+[src/model/workbench/explorer/folderTree.tsx:75](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L75)
 
 ## Properties
 
@@ -57,7 +57,7 @@
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:65](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L65)
+[src/model/workbench/explorer/folderTree.tsx:65](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L65)
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:71](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L71)
+[src/model/workbench/explorer/folderTree.tsx:71](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L71)
 
 ___
 
@@ -87,7 +87,7 @@ Store the custom data
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:73](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L73)
+[src/model/workbench/explorer/folderTree.tsx:73](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L73)
 
 ___
 
@@ -101,7 +101,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:63](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L63)
+[src/model/workbench/explorer/folderTree.tsx:63](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L63)
 
 ___
 
@@ -117,7 +117,7 @@ The icon of this tree node, which is rendered in front of the name
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:67](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L67)
+[src/model/workbench/explorer/folderTree.tsx:67](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L67)
 
 ___
 
@@ -137,7 +137,7 @@ Please be aware of that id should be global unique
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:55](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L55)
+[src/model/workbench/explorer/folderTree.tsx:55](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L55)
 
 ___
 
@@ -153,7 +153,7 @@ The status of editable, mark whether the node is being edited
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:69](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L69)
+[src/model/workbench/explorer/folderTree.tsx:69](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L69)
 
 ___
 
@@ -169,7 +169,7 @@ The type of this tree node.
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:61](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L61)
+[src/model/workbench/explorer/folderTree.tsx:61](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L61)
 
 ___
 
@@ -183,7 +183,7 @@ ___
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:59](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L59)
+[src/model/workbench/explorer/folderTree.tsx:59](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L59)
 
 ___
 
@@ -199,4 +199,4 @@ The name of this tree node
 
 #### Defined in
 
-[src/model/workbench/explorer/folderTree.tsx:57](https://github.com/mtsdnz/allai-core/blob/5932278/src/model/workbench/explorer/folderTree.tsx#L57)
+[src/model/workbench/explorer/folderTree.tsx:57](https://github.com/gethubai/hubai-core/blob/43abc4a/src/model/workbench/explorer/folderTree.tsx#L57)
