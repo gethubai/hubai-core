@@ -34,7 +34,7 @@
     "gulp-babel": "^8.0.0",
     "gulp-sass": "^5.1.0",
     "gulp-typescript": "^6.0.0-alpha.1",
-    "monaco-editor": "^0.31.0",
+    "monaco-editor": "^0.49.0",
     "node-sass-alias-importer": "^2.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
