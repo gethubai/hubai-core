@@ -30,7 +30,7 @@
     "@vscode/codicons": "^0.0.33",
     "babel-plugin-transform-typescript-metadata": "^0.3.2",
     "css-loader": "^6.8.1",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-babel": "^8.0.0",
     "gulp-sass": "^5.1.0",
     "gulp-typescript": "^6.0.0-alpha.1",
