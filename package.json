@@ -41,7 +41,7 @@
     "react-test-renderer": "^18.2.0",
     "rimraf": "^3.0.2",
     "sass": "^1.62.1",
-    "sass-loader": "^13.3.1",
+    "sass-loader": "^14.2.1",
     "style-loader": "^3.3.3",
     "through2": "^4.0.2",
     "typedoc": "^0.25.3",
